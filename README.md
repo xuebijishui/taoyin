@@ -4,7 +4,7 @@ bs4, lxml
 
 ## 使用流程介绍：
 
-使用**crawler_for_single_url.py**或**crawler_for_multiple_urls.py**爬取图片，爬取完后会将该网页的桃隐贴子编号存入SAVED.txt，失败图片信息存入ERROR.txt（即使有爬取失败的图片，但只要按流程走到最后一步，也会将贴子编号存入SAVED.txt）下次再次使用该程序，若贴子编号在SAVED.txt中，则跳过爬取该网页。使用**crawler_for_img_of_ERRORtxt.py**可以下载ERROR.txt中的图片。如果程序中途意外中止运行，不必担心，信息存入SAVED.txt和ERROR.txt是即时的，不必担心重复爬取。
+使用**crawler_for_single_url.py**或**crawler_for_multiple_urls.py**爬取图片，爬取完后会将该网页的桃隐贴子编号存入SAVED.txt，失败图片信息存入ERROR.txt，若页面内存在资源下载链接，则信息存入Download Link.txt（即使有爬取失败的图片，但只要按流程走到最后一步，也会将贴子编号存入SAVED.txt）下次再次使用该程序，若贴子编号在SAVED.txt中，则跳过爬取该网页。使用**crawler_for_img_of_ERRORtxt.py**可以下载ERROR.txt中的图片。如果程序中途意外中止运行，不必担心，信息存入SAVED.txt和ERROR.txt是即时的，不必担心重复爬取。
 
 ## 最新版本文件简介：
 
