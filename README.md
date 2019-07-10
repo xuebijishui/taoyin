@@ -80,7 +80,7 @@ prettify_html_by_BeautifulSoup4.py&emsp;&emsp;美化网页源代码缩进
 
       * 正则表达式仍需改善
 
-* #### 版本1.1    2018.06.08 01:47
+* #### 版本1.1&emsp;&emsp;2018.06.08 01:47
 
    * 完善正则表达式的提取
 
@@ -90,6 +90,6 @@ prettify_html_by_BeautifulSoup4.py&emsp;&emsp;美化网页源代码缩进
 
    * 源代码内置目标网址改为运行时输入网址
 
-* #### 版本1.0    2019.06.07
+* #### 版本1.0&emsp;&emsp;2019.06.07
 
    人生第一个python爬虫小程序
