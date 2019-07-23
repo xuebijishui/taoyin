@@ -6,7 +6,7 @@
 
 ## 依赖：
 
-bs4, lxml
+requests，bs4，lxml
 
 ## 使用流程介绍：
 
@@ -16,21 +16,50 @@ bs4, lxml
 
 #### 主程序：
 
-crawler_class.py&emsp;&emsp;爬虫类
+**crawler_class.py**&emsp;&emsp;爬虫类
 
-crawler_for_single_url.py&emsp;&emsp;下载单一网页内的所有目标图片
+**crawler_for_single_url.py**&emsp;&emsp;下载单一网页内的所有目标图片
 
-crawler_for_multiple_urls.py&emsp;&emsp;下载多个网页内的所有目标图片
+**crawler_for_multiple_urls.py**&emsp;&emsp;下载多个网页内的所有目标图片
 
-crawler_for_img_of_ERRORtxt.py&emsp;&emsp;下载之前下载失败的图片（通过读取ERROR.txt）
+**crawler_for_img_of_ERRORtxt.py**&emsp;&emsp;下载之前下载失败的图片（通过读取ERROR.txt）
 
 #### 辅助程序：
 
-get_taoyin_urls_from_favorite.py&emsp;&emsp;从从浏览器导出的收藏夹中提取出桃隐网页
+**get_taoyin_urls_from_favorite.py**&emsp;&emsp;从从浏览器导出的收藏夹中提取出桃隐网页
 
-prettify_html_by_BeautifulSoup4.py&emsp;&emsp;美化网页源代码缩进
+**prettify_html_by_BeautifulSoup4.py**&emsp;&emsp;美化网页源代码缩进
+
+#### 其他文件
+
+**taoyin_urls.txt** 通过使用**crawler_for_multiple_urls.py** 爬取此文件内的网址的内容
+
+**SAVED.txt** 已爬取的贴子的编号，即使存在部分图片未爬取成功，也会写入此文件
+
+**NO EXIST.txt** 不存在或已删除的贴子的编号
+
+**NO JURISDICTION.txt** 没有权限的贴子的编号
+
+**ERROR.txt** 失败图片的信息，有贴子编号，图片网址，图片序号，图片下载地址
+
+**Download Link.txt** 若网页中含有下载链接，则存入此文件
 
 ## 版本更新：
+
+* #### 此项目停止增添新功能，存在以下遗憾：
+
+  * 未登录导致部分贴子游客权限不够
+
+  * 未登录并回复导致部分贴子无法爬取全部图片
+  * 没有多线程
+
+  **由于时间关系，此后只修bug，不再增新**
+
+* #### 版本6.0        2019.07.23
+
+  * 完善类的成员变量，完整框架，修复bug
+
+  * 开始生成NO EXIST.txt，NO JURISDICTION.txt
 
 * #### 版本5.0&emsp;&emsp;2019.06.18
 

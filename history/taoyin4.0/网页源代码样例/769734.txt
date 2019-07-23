@@ -1,0 +1,4064 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="webkit" name="renderer"/>
+  <meta content="IE=9" http-equiv="X-UA-Compatible"/>
+  <title>
+   晴子Miss精 - 国产自拍|偷拍|艳照 桃隐社区
+  </title>
+  <meta content="晴子Miss精" name="keywords"/>
+  <meta content=" 晴子Miss精 ,桃隐社区" name="description"/>
+  <meta content="True" name="MSSmartTagsPreventParsing"/>
+  <meta content="Yes" http-equiv="MSThemeCompatible"/>
+  <base href="http://c.taoy66.vip/"/>
+  <link href="data/cache/style_2_common.css?CGn" rel="stylesheet" type="text/css"/>
+  <link href="data/cache/style_2_forum_viewthread.css?CGn" rel="stylesheet" type="text/css"/>
+  <script src="template/qu_115style/img/js/jquery-1.7.2.js" type="text/javascript">
+  </script>
+  <script src="/colec/jquery.qrcode.min.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   var STYLEID = '2', STATICURL = 'static/', IMGDIR = 'template/qu_115style/images', VERHASH = 'CGn', charset = 'utf-8', discuz_uid = '636112', cookiepre = 'pDXj_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '2|金币|,3|贡献|,5|推广|', defaultstyle = '', REPORTURL = 'aHR0cDovL2MudGFveTY2LnZpcC9mb3J1bS5waHA/bW9kPXZpZXd0aHJlYWQmdGlkPTc2OTczNA==', SITEURL = 'http://c.taoy66.vip/', JSPATH = 'data/cache/', CSSPATH = 'data/cache/style_', DYNAMICURL = '';var q_jq=jQuery.noConflict();
+  </script>
+  <script src="data/cache/common.js?CGn" type="text/javascript">
+  </script>
+  <meta content="桃隐社区" name="application-name"/>
+  <meta content="桃隐社区" name="msapplication-tooltip"/>
+  <meta content="name=论坛;action-uri=http://c.taoy66.vip/forum.php;icon-uri=http://c.taoy66.vip/template/qu_115style/images/bbs.ico" name="msapplication-task"/>
+  <script src="data/cache/forum.js?CGn" type="text/javascript">
+  </script>
+  <script src="data/cache/portal.js?CGn" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   <!--
+window.onerror=function(){return true;}
+// -->
+  </script>
+  <script src="template/qu_115style/img/js/jquery.SuperSlide.js" type="text/javascript">
+  </script>
+ </head>
+ <body class="pg_viewthread" id="nv_forum" onkeydown="if(event.keyCode==27) return false;">
+  <div id="append_parent">
+  </div>
+  <div id="ajaxwaitid">
+  </div>
+  <div class="cl q_none" id="toptb">
+   <div class="wp">
+    <div class="z">
+     <a href="javascript:;" onclick="setHomepage('http://wwvv.taoy1.vip/');">
+      设为首页
+     </a>
+     <a href="http://wwvv.taoy1.vip/" onclick="addFavorite(this.href, '桃隐社区');return false;">
+      收藏本站
+     </a>
+    </div>
+    <div class="y">
+     <a class="switchblind" href="javascript:;" id="switchblind" onclick="toggleBlind(this)" title="开启辅助访问">
+      开启辅助访问
+     </a>
+     <a class="switchwidth" href="javascript:;" id="switchwidth" onclick="widthauto(this)" title="切换到窄版">
+      切换到窄版
+     </a>
+    </div>
+   </div>
+  </div>
+  <ul class="p_pop" id="myitem_menu" style="display: none;">
+   <li>
+    <a href="forum.php?mod=guide&amp;view=my">
+     帖子
+    </a>
+   </li>
+   <li>
+    <a href="home.php?mod=space&amp;do=favorite&amp;view=me">
+     收藏
+    </a>
+   </li>
+   <li>
+    <a href="home.php?mod=space&amp;do=friend">
+     好友
+    </a>
+   </li>
+  </ul>
+  <div class="animate p_pop " id="qmenu_menu" style="display: none;">
+   <ul class="cl nav">
+    <li>
+     <a href="home.php?mod=space&amp;do=friend" style="background-image:url(http://wwvv.taoy1.vip/static/image/feed/friend_b.png) !important">
+      好友
+     </a>
+    </li>
+    <li>
+     <a href="forum.php?mod=guide&amp;view=my" style="background-image:url(http://wwvv.taoy1.vip/static/image/feed/thread_b.png) !important">
+      帖子
+     </a>
+    </li>
+    <li>
+     <a href="home.php?mod=space&amp;do=favorite&amp;view=me" style="background-image:url(http://wwvv.taoy1.vip/static/image/feed/favorite_b.png) !important">
+      收藏
+     </a>
+    </li>
+    <li>
+     <a href="home.php?mod=medal" style="background-image:url(http://wwvv.taoy1.vip/static/image/feed/medal_b.png) !important">
+      勋章
+     </a>
+    </li>
+    <li>
+     <a href="home.php?mod=task" style="background-image:url(http://wwvv.taoy1.vip/static/image/feed/task_b.png) !important">
+      任务
+     </a>
+    </li>
+   </ul>
+  </div>
+  <div id="xmaxtop" style="position: absolute;width: 100%;z-index: -1;">
+  </div>
+  <div id="hd">
+   <div class="wp" style="margin:0 auto; padding:0;">
+    <div class="hdc cl" style="position: relative;">
+     <script type="text/javascript">
+      jQuery(function()
+{
+jQuery('#hov_btn').hover(function() 
+{
+jQuery('div.qing_lg_after ul').show();
+},function() 
+{
+jQuery('div.qing_lg_after ul').hide();
+});
+});
+     </script>
+     <div id="um">
+      <div class="qing_lg_after cl" id="hov_btn">
+       <h4 class="qing_br5">
+        <img onerror="this.onerror=null;this.src='/uc_server/images/noavatar_small.gif'" src="http://uc.taoy88.info/uc_server/data/avatar/000/63/61/12_avatar_small.jpg"/>
+        <a href="home.php?mod=space&amp;uid=636112">
+         295982055
+        </a>
+        <em>
+        </em>
+       </h4>
+       <ul style="display: none;">
+        <div class="top-angle">
+        </div>
+        <div class="user-bottom cl">
+         <div class="user-line1">
+          用户名 :
+          <a href="home.php?mod=space&amp;uid=636112" target="_blank" title="访问我的空间">
+           295982055
+          </a>
+         </div>
+         <div class="user-line2">
+          <div class="line2_l">
+           <a href="/home.php?mod=spacecp&amp;ac=credit&amp;op=base" target="_blank">
+            积分
+           </a>
+           :
+           <font color="#FFC000">
+            223
+           </font>
+          </div>
+          <div class="line2_r ">
+           <a href="/home.php?mod=spacecp&amp;ac=usergroup" target="_blank">
+            用户组
+           </a>
+           :
+           <font color="#FFC000">
+            4级
+           </font>
+           <input id="groupid" type="hidden" value="13"/>
+          </div>
+         </div>
+         <div style="display: none;">
+         </div>
+         <div class="user-line3">
+          <div class="line3_l">
+           <a href="home.php?mod=space&amp;do=pm" id="pm_ntc">
+            消息
+           </a>
+          </div>
+          <div class="line3_r">
+           <a href="home.php?mod=space&amp;do=notice">
+            提醒
+            <font color="#FFC000">
+            </font>
+           </a>
+          </div>
+         </div>
+         <div class="user-line4">
+          <div class="line4_l">
+          </div>
+         </div>
+         <div class="user-bottom-con">
+          <a href="forum.php?mod=guide&amp;view=my">
+           帖子
+          </a>
+          <a href="home.php?mod=space&amp;do=favorite&amp;view=me">
+           收藏
+          </a>
+          <a href="home.php?mod=space&amp;do=friend">
+           好友
+          </a>
+          <a href="home.php?mod=spacecp">
+           设置
+          </a>
+          <a href="home.php?mod=spacecp&amp;ac=promotion">
+           推广升级
+          </a>
+          <a href="member.php?mod=logging&amp;action=logout&amp;formhash=dd55db35">
+           <font color="#E82C0C">
+            [退出]
+           </font>
+          </a>
+         </div>
+        </div>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="qing_nv">
+     <a class="animate" href="javascript:;" id="qmenu" onmouseover="showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2})">
+      快捷导航
+     </a>
+     <ul>
+      <li id="mn_N25e8">
+       <a hidefocus="true" href="/img/taoyin.htm">
+        网址发布器
+       </a>
+      </li>
+      <li id="mn_N2d81">
+       <a hidefocus="true" href="home.php?mod=task">
+        任务
+       </a>
+      </li>
+      <li id="mn_Nf40b">
+       <a hidefocus="true" href="/plugin.php?id=tygames:tygames">
+        桃隐游戏
+       </a>
+      </li>
+      <li id="mn_N10c2">
+       <a hidefocus="true" href="/misc.php?mod=faq&amp;action=faq&amp;id=1" style="color: red">
+        新人必看
+       </a>
+      </li>
+      <li class="a" id="mn_forum">
+       <a hidefocus="true" href="forum.php" title="BBS">
+        论坛
+        <span>
+         BBS
+        </span>
+       </a>
+      </li>
+     </ul>
+    </div>
+    <ul class="p_pop h_pop" id="plugin_menu" style="display: none">
+     <li>
+      <a href="tygames-tygames.html" id="mn_plink_tygames">
+       TY游戏大厅
+      </a>
+     </li>
+    </ul>
+    <div class="p_pop h_pop" id="mn_userapp_menu" style="display: none">
+    </div>
+    <div class="cl" id="mu">
+    </div>
+   </div>
+  </div>
+  <link href="source/plugin/oculus/js/oculus.css?t=1486453586" rel="stylesheet"/>
+  <link href="//g.alicdn.com/sd/ncpc/nc.css?t=1486453586" rel="stylesheet"/>
+  <script src="//g.alicdn.com/sd/ncpc/nc.js?t=1486453586">
+  </script>
+  <script src="source/plugin/oculus/js/oculus_nc.js?t=1486453586">
+  </script>
+  <div id="nc-float" style="display:none;">
+   <div class="nc-f-head">
+    <img alt="" class="nc-f-icon" height="20" src="//img.alicdn.com/tps/TB1_3FrKVXXXXbdXXXXXXXXXXXX-129-128.png" width="20"/>
+    <span class="nc-f-title">
+     安全验证
+    </span>
+    <a class="close" href="#">
+     <i class="nc_iconfont">
+      
+     </i>
+    </a>
+   </div>
+   <div class="nc-f-body" id="oculus-nc-f-body">
+    <div class="nc-f-des">
+     请完成以下验证码
+    </div>
+    <div id="nocaptcha">
+    </div>
+   </div>
+  </div>
+  <div class="wp" id="wp">
+   <div class="qing_subnav">
+    <div class="sub_l q_fl">
+     <a class="qing_logo" href="./">
+      <img alt="国产自拍|偷拍|艳照" src="data/attachment/common/19/common_36_icon.png"/>
+      <em>
+       首页
+      </em>
+     </a>
+     <div class="subnr z cl" id="qing_pt">
+      <a class="nvhm" href="./forum.php" title="首页">
+       桃隐社区
+      </a>
+      <em>
+       ›
+      </em>
+      <a href="forum.php?gid=52">
+       【情色美图】
+      </a>
+      <em>
+       ›
+      </em>
+      <a href="forum.php?mod=forumdisplay&amp;fid=36">
+       国产自拍|偷拍|艳照
+      </a>
+      <em>
+      </em>
+      <a href="forum.php?mod=viewthread&amp;tid=769734">
+       晴子Miss精
+      </a>
+     </div>
+     <div class="z" style="margin-left:20px; line-height:45px;">
+     </div>
+    </div>
+   </div>
+   <div class="q_v_top q_none" id="q_vtop">
+    <div class="v_wp">
+     <div class="v_left">
+      <a class="v_back" href="forum.php?mod=forumdisplay&amp;fid=36">
+       返回列表
+      </a>
+      <a href="forum.php?mod=viewthread&amp;tid=769734&amp;page=1&amp;authorid=657229" rel="nofollow">
+       楼主帖子
+      </a>
+     </div>
+     <div class="v_right2">
+      <div class="bdsharebuttonbox q_fr">
+       <a class="bds_more" data-cmd="more" href="#">
+       </a>
+      </div>
+      <script>
+       window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"2","bdSize":"16"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+      </script>
+      <a class="v_favor" href="home.php?mod=spacecp&amp;ac=favorite&amp;type=thread&amp;id=769734&amp;formhash=dd55db35" id="k_favorite" onclick="showWindow(this.id, this.href, 'get', 0);" onmouseover="this.title = $('favoritenumber').innerHTML + ' 人收藏'" title="收藏本帖">
+      </a>
+     </div>
+     <div class="v_right">
+      <div class="q-pgs cl" id="pgt">
+       <div class="pgt">
+        <div class="pg">
+         <strong>
+          1
+         </strong>
+         <a href="forum.php?mod=viewthread&amp;tid=769734&amp;extra=&amp;page=2">
+          2
+         </a>
+         <a href="forum.php?mod=viewthread&amp;tid=769734&amp;extra=&amp;page=3">
+          3
+         </a>
+         <a href="forum.php?mod=viewthread&amp;tid=769734&amp;extra=&amp;page=4">
+          4
+         </a>
+         <a href="forum.php?mod=viewthread&amp;tid=769734&amp;extra=&amp;page=5">
+          5
+         </a>
+         <a href="forum.php?mod=viewthread&amp;tid=769734&amp;extra=&amp;page=6">
+          6
+         </a>
+         <a href="forum.php?mod=viewthread&amp;tid=769734&amp;extra=&amp;page=7">
+          7
+         </a>
+         <a href="forum.php?mod=viewthread&amp;tid=769734&amp;extra=&amp;page=8">
+          8
+         </a>
+         <a href="forum.php?mod=viewthread&amp;tid=769734&amp;extra=&amp;page=9">
+          9
+         </a>
+         <a href="forum.php?mod=viewthread&amp;tid=769734&amp;extra=&amp;page=10">
+          10
+         </a>
+         <a class="last" href="forum.php?mod=viewthread&amp;tid=769734&amp;extra=&amp;page=70">
+          ... 70
+         </a>
+         <label>
+          <input class="px" name="custompage" onkeydown="if(event.keyCode==13) {window.location='forum.php?mod=viewthread&amp;tid=769734&amp;extra=&amp;page='+this.value;; doane(event);}" size="2" title="输入页码，按回车快速跳转" type="text" value="1"/>
+          <span title="共 70 页">
+           / 70 页
+          </span>
+         </label>
+         <a class="nxt" href="forum.php?mod=viewthread&amp;tid=769734&amp;extra=&amp;page=2">
+          下一页
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <script>
+    jQuery.noConflict();
+   </script>
+   <script type="text/javascript">
+    var nt = !0;
+jQuery(window).bind("scroll",
+function() {
+var st = jQuery(document).scrollTop();
+nt = nt ? nt: jQuery("#q_vtop").offset().top;
+// document.title=st;
+var sel=jQuery("#q_vtop");
+if (nt <= st) {
+sel.addClass("q_block");
+} else {
+sel.removeClass("q_block");
+sel.addClass("q_transform");
+}
+});
+   </script>
+   <div class="q-view-handle" style="z-index:10;">
+    <a class="tvh-reply" href="forum.php?mod=post&amp;action=reply&amp;fid=36&amp;tid=769734&amp;extra=&amp;page=1" onclick="showWindow('reply', this.href)">
+     <i>
+     </i>
+     <span>
+      回复
+     </span>
+    </a>
+    <a class="tvh-comment" href="javascript:;" onclick="window.scrollTo('0','90')">
+     <i>
+     </i>
+     <span>
+      1038
+     </span>
+    </a>
+    <a class="tvh-comment" href="javascript:;" onclick="scalepicS()">
+     <span style="height: 36px;">
+      图片缩小
+     </span>
+    </a>
+    <a class="tvh-comment" href="javascript:;" onclick="scalepicB()">
+     <span style="height: 36px;">
+      图片放大
+     </span>
+    </a>
+   </div>
+   <style>
+    #scrolltop{ display:none;}
+   </style>
+   <script type="text/javascript">
+    var fid = parseInt('36'), tid = parseInt('769734');
+   </script>
+   <script src="data/cache/forum_viewthread.js?CGn" type="text/javascript">
+   </script>
+   <script type="text/javascript">
+    zoomstatus = parseInt(1);var imagemaxwidth = '1030';var aimgcount = new Array();
+//willson 20180120 图片放大缩小
+var presize=100;
+function scalepicS(){
+if(presize>40){
+presize-=20;
+q_jq("td.t_f:first img, div.t_fsz:first div.savephotop img").css("width",presize+"%");
+}
+}
+function scalepicB(){
+if(presize<100){
+presize+=20;
+q_jq("td.t_f:first img, div.t_fsz:first div.savephotop img").css("width",presize+"%");
+}
+}
+//willson 20180120 end
+   </script>
+   <style id="diy_style" type="text/css">
+   </style>
+   <!--[diy=diynavtop]-->
+   <div class="area" id="diynavtop">
+    <div class="frame move-span cl frame-1" id="frameULKdz5">
+     <div class="column frame-1-c" id="frameULKdz5_left">
+      <div class="move-span temp" id="frameULKdz5_left_temp">
+      </div>
+     </div>
+    </div>
+   </div>
+   <!--[/diy]-->
+   <script src="/agetsou.js?vCGn" type="text/javascript">
+   </script>
+   <div class="bm cl" id="pt">
+    <div class="z">
+     <a class="nvhm" href="./" title="首页">
+      桃隐社区
+     </a>
+     <em>
+      »
+     </em>
+     <a href="forum.php">
+      论坛
+     </a>
+     <em>
+      ›
+     </em>
+     <a href="forum.php?gid=52">
+      【情色美图】
+     </a>
+     <em>
+      ›
+     </em>
+     <a href="forum.php?mod=forumdisplay&amp;fid=36">
+      国产自拍|偷拍|艳照
+     </a>
+     <em>
+      ›
+     </em>
+     <a href="forum.php?mod=viewthread&amp;tid=769734">
+      晴子Miss精
+     </a>
+    </div>
+   </div>
+   <div class="wp">
+    <!--[diy=diy1]-->
+    <div class="area" id="diy1">
+    </div>
+    <!--[/diy]-->
+   </div>
+   <div class="wp cl" id="ct">
+    <ul class="p_pop" id="newspecial_menu" style="display: none">
+     <li>
+      <a href="forum.php?mod=post&amp;action=newthread&amp;fid=36">
+       发表帖子
+      </a>
+     </li>
+     <li class="poll">
+      <a href="forum.php?mod=post&amp;action=newthread&amp;fid=36&amp;special=1">
+       发起投票
+      </a>
+     </li>
+    </ul>
+    <div class="pl bm" id="postlist">
+     <div id="post_11609761" style="">
+      <table cellpadding="0" cellspacing="0" class="plhin" id="pid11609761" summary="pid11609761">
+       <tr>
+        <td class="pls" rowspan="2">
+         <div class="pls favatar" id="favatar11609761" style="padding-top:4px;">
+          <div class="p_pop blk bui card_gender_0" id="userinfo11609761" style="display: none; ">
+           <div class="m z">
+            <div id="userinfo11609761_ma">
+            </div>
+           </div>
+           <div class="i y">
+            <div>
+             <strong>
+              <a class="xi2" href="home.php?mod=space&amp;uid=718223" target="_blank">
+               GXS826
+              </a>
+             </strong>
+             <em>
+              当前离线
+             </em>
+             <a class="xi2" href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_718223&amp;touid=718223&amp;pmid=0&amp;daterange=2&amp;pid=11609761&amp;tid=769734" onclick="showWindow('sendpm', this.href);" title="发消息">
+              <img src="/template/qu_115style/images/pmto.gif"/>
+             </a>
+            </div>
+            <dl class="cl">
+             <dt>
+              积分
+             </dt>
+             <dd>
+              <a class="xi2" href="home.php?mod=space&amp;uid=718223&amp;do=profile" target="_blank">
+               -9242
+              </a>
+             </dd>
+             <dt>
+              精华
+             </dt>
+             <dd>
+              0
+             </dd>
+             <dt>
+              金币
+             </dt>
+             <dd>
+              1468
+             </dd>
+             <dt>
+              贡献
+             </dt>
+             <dd>
+              -9994
+             </dd>
+             <dt>
+              推广
+             </dt>
+             <dd>
+              6
+             </dd>
+             <dt>
+              性别
+             </dt>
+             <dd>
+              保密
+             </dd>
+             <br/>
+             <dt>
+              注册时间
+             </dt>
+             <dd>
+              2018-6-30
+             </dd>
+            </dl>
+            <div class="imicn">
+             <a href="home.php?mod=space&amp;uid=718223&amp;do=profile" target="_blank" title="查看详细资料">
+              <img alt="查看详细资料" src="template/qu_115style/images/userinfo.gif"/>
+             </a>
+            </div>
+            <div id="avatarfeed">
+             <span id="threadsortswait">
+             </span>
+            </div>
+           </div>
+          </div>
+          <div>
+           <div class="avatar" onmouseover="showauthor(this, 'userinfo11609761')">
+            <a class="avtm" href="home.php?mod=space&amp;uid=718223" target="_blank">
+             <img onerror="this.onerror=null;this.src='http://uc.taoy88.info/uc_server/images/noavatar_middle.gif'" src="http://uc.taoy88.info/uc_server/data/avatar/000/71/82/23_avatar_middle.jpg"/>
+            </a>
+           </div>
+          </div>
+         </div>
+        </td>
+        <td class="plc">
+         <div class="qing_ts">
+          <span id="thread_subject">
+           晴子Miss精
+          </span>
+          <a href="forum.php?mod=viewthread&amp;tid=769734&amp;fromuid=636112" onclick="return copyThreadUrl(this, '桃隐社区')" style="font-size:12px; font-weight:400; color:#999; margin-left:5px;" title="您的朋友访问此链接后，您将获得相应的积分奖励">
+           [复制链接]
+          </a>
+          <a class="shareewm" href="javascript:showurlewm();" style="">
+           <img src="/img/ewm.png"/>
+           二维码分享给朋友
+          </a>
+          <div id="divshowurlewm">
+           <div class="height30">
+            <a href="javascript:q_jq('#divshowurlewm').hide();">
+             ×
+            </a>
+           </div>
+           <div id="qrcode">
+           </div>
+          </div>
+          <script>
+           q_jq('#qrcode').qrcode(location.href);
+function showurlewm(){
+q_jq('#divshowurlewm').show();
+}
+          </script>
+         </div>
+         <div class="pi" style="position:relative;">
+          <div class="qing_v_tj">
+           <span class="qing_vt_num">
+            <img align="absmiddle" src="template/qu_115style/img/view.png"/>
+            16719
+            <img align="absmiddle" src="template/qu_115style/img/re.png"/>
+            1038
+           </span>
+          </div>
+          <div class="pti">
+           <div class="pdbt">
+           </div>
+           <div class="authi qing_authi">
+            <a class="xi2" href="home.php?mod=space&amp;uid=718223" target="_blank">
+             GXS826
+            </a>
+            <p>
+             <em>
+              <a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=29" target="_blank">
+               0级|限制用户
+              </a>
+             </em>
+            </p>
+            <span class="user_class" style="float: left;">
+             楼主
+            </span>
+            <em id="authorposton11609761" style="float: left;">
+             2019-5-4 21:21:23
+            </em>
+            <a href="forum.php?mod=viewthread&amp;tid=769734&amp;page=1&amp;authorid=718223" rel="nofollow" style="float: left;margin-left: 5px;">
+             只看该作者
+            </a>
+            <div class="hin" style="float: left;margin-left: 20px;width: 400px;">
+             <div class="pob cl">
+              <em>
+               <a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=36&amp;tid=769734&amp;reppost=11609761&amp;extra=&amp;page=1" onclick="showWindow('reply', this.href)">
+                回复
+               </a>
+              </em>
+              <a href="javascript:;" onclick="showWindow('miscreport11609761', 'misc.php?mod=report&amp;rtype=post&amp;rid=11609761&amp;tid=769734&amp;fid=36', 'get', -1);return false;">
+               举报
+              </a>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="pct">
+          <style type="text/css">
+           .pcb{margin-right:0}
+          </style>
+          <div class="pcb">
+           <div class="t_fsz">
+            <div class="coleee" data="0">
+            </div>
+            <table cellpadding="0" cellspacing="0">
+             <tr>
+              <td class="t_f" id="postmessage_11609761">
+               <i class="pstatus">
+                本帖最后由 GXS826 于 2019-6-4 16:59 编辑
+               </i>
+               <br/>
+               <br/>
+               <img alt="" border="0" class="zoom" file="https://prn.frl/i/e72ck94zmyomsyca.jpg" id="aimg_XuS9v" lazyloadthumb="1" onclick="zoom(this, this.src, 0, 0, 0)" onmouseover="img_onmouseoverfunc(this)"/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <img alt="" border="0" class="zoom" file="https://prn.frl/i/6km8n2ck4xmip69m.jpg" id="aimg_P4Jrm" lazyloadthumb="1" onclick="zoom(this, this.src, 0, 0, 0)" onmouseover="img_onmouseoverfunc(this)"/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <img alt="" border="0" class="zoom" file="https://prn.frl/i/awbsehht5kjczkj8.jpg" id="aimg_aUR68" lazyloadthumb="1" onclick="zoom(this, this.src, 0, 0, 0)" onmouseover="img_onmouseoverfunc(this)"/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <img alt="" border="0" class="zoom" file="https://prn.frl/i/lkxxdnd27erll321.jpg" id="aimg_g3c77" lazyloadthumb="1" onclick="zoom(this, this.src, 0, 0, 0)" onmouseover="img_onmouseoverfunc(this)"/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               加Q2978934386
+               <br/>
+               <br/>
+               <br/>
+               <img alt="" border="0" class="zoom" file="https://prn.frl/i/dwxebfvapoqp52gj.jpg" id="aimg_LPPiL" lazyloadthumb="1" onclick="zoom(this, this.src, 0, 0, 0)" onmouseover="img_onmouseoverfunc(this)"/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <img alt="" border="0" class="zoom" file="https://prn.frl/i/hf5l07g5k7mwojiu.jpg" id="aimg_u8n0u" lazyloadthumb="1" onclick="zoom(this, this.src, 0, 0, 0)" onmouseover="img_onmouseoverfunc(this)"/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <img alt="" border="0" class="zoom" file="https://prn.frl/i/fujxgqurmyouwiza.jpg" id="aimg_ygIeg" lazyloadthumb="1" onclick="zoom(this, this.src, 0, 0, 0)" onmouseover="img_onmouseoverfunc(this)"/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <img alt="" border="0" class="zoom" file="https://prn.frl/i/5kr9vaoyypv2qcr4.jpg" id="aimg_iYm7k" lazyloadthumb="1" onclick="zoom(this, this.src, 0, 0, 0)" onmouseover="img_onmouseoverfunc(this)"/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <img alt="" border="0" class="zoom" file="https://prn.frl/i/1moi6rpeh01qgg4b.jpg" id="aimg_A0Qz0" lazyloadthumb="1" onclick="zoom(this, this.src, 0, 0, 0)" onmouseover="img_onmouseoverfunc(this)"/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <img alt="" border="0" class="zoom" file="https://prn.frl/i/32jv31q7z3y3tlo3.jpg" id="aimg_c35oY" lazyloadthumb="1" onclick="zoom(this, this.src, 0, 0, 0)" onmouseover="img_onmouseoverfunc(this)"/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <img alt="" border="0" class="zoom" file="https://prn.frl/i/lc9xy4kk2zxk70f4.jpg" id="aimg_P9cxo" lazyloadthumb="1" onclick="zoom(this, this.src, 0, 0, 0)" onmouseover="img_onmouseoverfunc(this)"/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <img alt="" border="0" class="zoom" file="https://prn.frl/i/0cnhx4l9szv97xmt.jpg" id="aimg_raTTG" lazyloadthumb="1" onclick="zoom(this, this.src, 0, 0, 0)" onmouseover="img_onmouseoverfunc(this)"/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <img alt="" border="0" class="zoom" file="https://prn.frl/i/ixeeowxrq35mcdt6.jpg" id="aimg_E1B1x" lazyloadthumb="1" onclick="zoom(this, this.src, 0, 0, 0)" onmouseover="img_onmouseoverfunc(this)"/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <img alt="" border="0" class="zoom" file="https://prn.frl/i/0f7cli50nyyf956x.jpg" id="aimg_bQNxQ" lazyloadthumb="1" onclick="zoom(this, this.src, 0, 0, 0)" onmouseover="img_onmouseoverfunc(this)"/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <img alt="" border="0" class="zoom" file="https://prn.frl/i/kgp9jvt6fn892ad2.jpg" id="aimg_BIX92" lazyloadthumb="1" onclick="zoom(this, this.src, 0, 0, 0)" onmouseover="img_onmouseoverfunc(this)"/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <img alt="" border="0" class="zoom" file="https://prn.frl/i/nvbr3x3mh8mbr553.jpg" id="aimg_aR60U" lazyloadthumb="1" onclick="zoom(this, this.src, 0, 0, 0)" onmouseover="img_onmouseoverfunc(this)"/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <img alt="" border="0" class="zoom" file="https://prn.frl/i/simurjt59mhhcnbf.jpg" id="aimg_BO9On" lazyloadthumb="1" onclick="zoom(this, this.src, 0, 0, 0)" onmouseover="img_onmouseoverfunc(this)"/>
+               <br/>
+               <br/>
+               <br/>
+               <img alt="" border="0" class="zoom" file="https://prn.frl/i/g64rjcvxw28rwgpa.jpg" id="aimg_nwc1c" lazyloadthumb="1" onclick="zoom(this, this.src, 0, 0, 0)" onmouseover="img_onmouseoverfunc(this)"/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <font color="#ff00">
+                <font size="6">
+                 回复查看更多精彩后续！！！！！！！！！！！！！！！！！！！
+                </font>
+               </font>
+               <br/>
+               <br/>
+               <img alt="" border="0" class="zoom" file="https://prn.frl/i/dlud3u5o8liuvt51.png" id="aimg_lEJRQ" lazyloadthumb="1" onclick="zoom(this, this.src, 0, 0, 0)" onmouseover="img_onmouseoverfunc(this)"/>
+               <br/>
+               <br/>
+               不发那么多图了挺累的更多资源加Q2978934386
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <strong>
+                补充内容 (2019-6-8 10:28):
+               </strong>
+               <br/>
+               <font color="Red">
+                <strong>
+                 此号不用+Q740898392
+                </strong>
+               </font>
+              </td>
+             </tr>
+            </table>
+            <script type="text/javascript">
+             var adv1='<a href="http://mobfy.xnbfan.com/67faa3668a3caff3ad493cbaa64a5e71" target="_blank"><img src="http://img3.taoimg.info/tyupload/upload/qipai1.gif" /></a>';
+var addivviddown='<div class="advideodown"><div></div><div><a href="http://mobfy.xnbfan.com/67faa3668a3caff3ad493cbaa64a5e71" target="_blank"><img src="http://img3.taoimg.info/tyupload/upload/qipai2.gif"></div></div>';
+var isipad=false;
+
+var usagent = navigator.userAgent;
+if(usagent.toLowerCase().indexOf("ipad")>-1){
+isipad=true;
+}
+
+
+
+var tempvideo='';
+function showimg(imgurl){
+if(q_jq("#sellshowpic").length>0){q_jq("#sellshowpic").html('<img src="'+imgurl+'" />');}
+q_jq("#tylongvideo").append('<img src="'+imgurl+'"  onerror="this.onerror=null;this.src=\'/img/imgerror.jpg\'" style="min-height: 300px;" onload="loadedimg(this)" /><br>');
+q_jq("#tylongvideo").append('<div id="btnplayvideopic"  onclick="btnbeginplay()"></div><br><br><div id="mfloadingdiv" style="font-size: 18px;display:none">正在缓冲视频...<span>10</span><br>'+adv1+'</div>'+addivviddown);
+
+}
+function showVideoCon(vidurl){
+tempvideo='<br><video width="640" height="360" controls="controls" style="max-width:720px;margin-top:30px;display:none"> <source src="'+vidurl+'" type="video/mp4"> </video>';
+
+q_jq("#tylongvideo video").css("margin-top","20px");
+}
+function showM3u8(videourl,picurl,type=13){
+ q_jq("#tylongvideo").before('<div id="tylongpic"><img src="'+picurl+'"  onerror="this.onerror=null;this.src=\'/img/imgerror.jpg\'" style="min-height: 300px;" onload="loadedimg(this)" /><div>');
+q_jq.ajax({
+   type: "POST",
+   url: "http://"+document.domain+'/colec/getotherv.php?type='+type+'&d='+picurl+'&c=3333',
+   data: "getvid="+videourl,
+   success: function(msg){
+ var countdownnum=10;if(discuz_uid==4){countdownnum=1;}
+ 
+ var coverdivcount='<div id="loadingcount" style="width:150px;font-size:18px;color: #111;">正在缓冲视频...<span>'+countdownnum+'</span></div>';
+ q_jq("#tylongpic").append(coverdivcount);
+ var coverdivad='<div id="loadingimgshow" style="width:640px;height:480px;background:#fff;position: absolute;top:0px;left:0px;z-index:99">'+adv1+'</div>'+addivviddown; //w500px hei:375px
+ //q_jq("#tylongvideo").html(msg);
+ q_jq("#tylongvideo").append(msg+coverdivad);
+ 
+ var mylonginv=setInterval(function(){
+countdownnum--;
+q_jq("#loadingcount span").text(countdownnum);
+if(countdownnum<1){
+clearInterval(mylonginv);
+q_jq("#loadingcount, #loadingimgshow").hide();
+q_jq("#tylongvideo .advideodown div:first").append(adv1);
+}
+ },1000);
+   }
+});
+}
+
+function btnbeginplay(){
+var countdownnum=11;if(discuz_uid==4){countdownnum=1;}
+q_jq("#tylongvideo img:first").after(tempvideo);
+q_jq("#btnplayvideopic").hide();
+q_jq("#mfloadingdiv").show();
+var mylonginv=setInterval(function(){
+countdownnum--;
+q_jq("#mfloadingdiv span").text(countdownnum);
+if(countdownnum<1){
+clearInterval(mylonginv);
+q_jq("#mfloadingdiv").hide();
+q_jq("#tylongvideo video").show();
+q_jq("#tylongvideo .advideodown div:first").append(adv1);
+}
+ },1000);
+}
+
+
+
+if(q_jq(".iframevideo").length){
+//20180704 willson测试用这个，但是有个问题
+var videourl=q_jq(".iframevideo").attr("href");
+q_jq(".iframevideo").after('<iframe  src="'+videourl+'" width="680" height="480" scrolling="no" frameborder="0" ></iframe>').hide();
+}
+
+function loadedimg(dom){
+var firstimgwidth=q_jq(dom).css("width").replace("px","");
+firstimgwidth=parseInt(firstimgwidth)<300?300:firstimgwidth;
+q_jq("#btnplayvideopic").css("width",firstimgwidth+"px");
+}
+            </script>
+           </div>
+           <div class="cm" id="comment_11609761">
+           </div>
+           <h3 class="psth xs1">
+            <span class="icon_ring vm">
+            </span>
+            评分
+           </h3>
+           <dl class="rate" id="ratelog_11609761">
+            <dd style="margin:0">
+             <div id="post_rate_11609761">
+             </div>
+             <table class="ratl">
+              <tr>
+               <th class="xw1" width="120">
+                <a href="forum.php?mod=misc&amp;action=viewratings&amp;tid=769734&amp;pid=11609761" onclick="showWindow('viewratings', this.href)" title="查看全部评分">
+                 参与人数
+                 <span class="xi1">
+                  6
+                 </span>
+                </a>
+               </th>
+               <th class="xw1" width="80">
+                金币
+                <i>
+                 <span class="xi1">
+                  +250
+                 </span>
+                </i>
+               </th>
+               <th>
+                <a class="y xi2 op" href="javascript:;" onclick="toggleRatelogCollapse('ratelog_11609761', this);">
+                 收起
+                </a>
+                <i class="txt_h">
+                 理由
+                </i>
+               </th>
+              </tr>
+              <tbody class="ratl_l">
+               <tr id="rate_11609761_496364">
+                <td>
+                 <a href="home.php?mod=space&amp;uid=496364" target="_blank">
+                  <img onerror="this.onerror=null;this.src='http://uc.taoy88.info/uc_server/images/noavatar_small.gif'" src="http://uc.taoy88.info/uc_server/data/avatar/000/49/63/64_avatar_small.jpg"/>
+                 </a>
+                 <a href="home.php?mod=space&amp;uid=496364" target="_blank">
+                  小茹宝贝我爱你
+                 </a>
+                </td>
+                <td class="xi1">
+                 + 100
+                </td>
+                <td class="xg1">
+                 这个能撸一个月！
+                </td>
+               </tr>
+               <tr id="rate_11609761_896578">
+                <td>
+                 <a href="home.php?mod=space&amp;uid=896578" target="_blank">
+                  <img onerror="this.onerror=null;this.src='http://uc.taoy88.info/uc_server/images/noavatar_small.gif'" src="http://uc.taoy88.info/uc_server/data/avatar/000/89/65/78_avatar_small.jpg"/>
+                 </a>
+                 <a href="home.php?mod=space&amp;uid=896578" target="_blank">
+                  mmmmmmmmt
+                 </a>
+                </td>
+                <td class="xi1">
+                 + 10
+                </td>
+                <td class="xg1">
+                 左手忙着，右手给你打赏吧！
+                </td>
+               </tr>
+               <tr id="rate_11609761_913074">
+                <td>
+                 <a href="home.php?mod=space&amp;uid=913074" target="_blank">
+                  <img onerror="this.onerror=null;this.src='http://uc.taoy88.info/uc_server/images/noavatar_small.gif'" src="http://uc.taoy88.info/uc_server/data/avatar/000/91/30/74_avatar_small.jpg"/>
+                 </a>
+                 <a href="home.php?mod=space&amp;uid=913074" target="_blank">
+                  萝莉控luoli
+                 </a>
+                </td>
+                <td class="xi1">
+                 + 50
+                </td>
+                <td class="xg1">
+                 你很有想法，跟我学做爱吧！
+                </td>
+               </tr>
+               <tr id="rate_11609761_740482">
+                <td>
+                 <a href="home.php?mod=space&amp;uid=740482" target="_blank">
+                  <img onerror="this.onerror=null;this.src='http://uc.taoy88.info/uc_server/images/noavatar_small.gif'" src="http://uc.taoy88.info/uc_server/data/avatar/000/74/04/82_avatar_small.jpg"/>
+                 </a>
+                 <a href="home.php?mod=space&amp;uid=740482" target="_blank">
+                  yncxy
+                 </a>
+                </td>
+                <td class="xi1">
+                 + 30
+                </td>
+                <td class="xg1">
+                 很给力!
+                </td>
+               </tr>
+               <tr id="rate_11609761_888650">
+                <td>
+                 <a href="home.php?mod=space&amp;uid=888650" target="_blank">
+                  <img onerror="this.onerror=null;this.src='http://uc.taoy88.info/uc_server/images/noavatar_small.gif'" src="http://uc.taoy88.info/uc_server/data/avatar/000/88/86/50_avatar_small.jpg"/>
+                 </a>
+                 <a href="home.php?mod=space&amp;uid=888650" target="_blank">
+                  3084582
+                 </a>
+                </td>
+                <td class="xi1">
+                 + 10
+                </td>
+                <td class="xg1">
+                 这个能撸一个月！
+                </td>
+               </tr>
+               <tr id="rate_11609761_608566">
+                <td>
+                 <a href="home.php?mod=space&amp;uid=608566" target="_blank">
+                  <img onerror="this.onerror=null;this.src='http://uc.taoy88.info/uc_server/images/noavatar_small.gif'" src="http://uc.taoy88.info/uc_server/data/avatar/000/60/85/66_avatar_small.jpg"/>
+                 </a>
+                 <a href="home.php?mod=space&amp;uid=608566" target="_blank">
+                  红莲
+                 </a>
+                </td>
+                <td class="xi1">
+                 + 50
+                </td>
+                <td class="xg1">
+                </td>
+               </tr>
+              </tbody>
+             </table>
+             <p class="ratc">
+              <a class="xi2" href="forum.php?mod=misc&amp;action=viewratings&amp;tid=769734&amp;pid=11609761" onclick="showWindow('viewratings', this.href)" title="查看全部评分">
+               查看全部评分
+              </a>
+             </p>
+            </dd>
+           </dl>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="plc plm">
+         <div class="hm cl" id="p_btn">
+          <a href="home.php?mod=spacecp&amp;ac=favorite&amp;type=thread&amp;id=769734&amp;formhash=dd55db35" id="k_favorite" onclick="showWindow(this.id, this.href, 'get', 0);" onmouseover="this.title = $('favoritenumber').innerHTML + ' 人收藏'" title="收藏本帖">
+           <i>
+            <img alt="收藏" src="template/qu_115style/images/fav.gif"/>
+            收藏
+            <span id="favoritenumber">
+             81
+            </span>
+           </i>
+          </a>
+          <a href="javascript:;" id="ak_rate" onclick="showWindow('rate', 'forum.php?mod=misc&amp;action=rate&amp;tid=769734&amp;pid=11609761', 'get', -1);return false;" title="评分表立场">
+           <i>
+            <img alt="评分" src="template/qu_115style/images/agree.gif"/>
+            评分
+           </i>
+          </a>
+          <a href="forum.php?mod=misc&amp;action=recommend&amp;do=add&amp;tid=769734&amp;hash=dd55db35" id="recommend_add" onclick="ajaxmenu(this, 3000, 1, 0, '43', 'recommendupdate(2)');return false;" onmouseover="this.title = $('recommendv_add').innerHTML + ' 人支持'" title="顶一下">
+           <i>
+            <img alt="支持" src="template/qu_115style/images/rec_add.gif"/>
+            支持
+            <span id="recommendv_add">
+             10
+            </span>
+           </i>
+          </a>
+          <a href="forum.php?mod=misc&amp;action=recommend&amp;do=subtract&amp;tid=769734&amp;hash=dd55db35" id="recommend_subtract" onclick="ajaxmenu(this, 3000, 1, 0, '43', 'recommendupdate(-2)');return false;" onmouseover="this.title = $('recommendv_subtract').innerHTML + ' 人反对'" title="踩一下">
+           <i>
+            <img alt="反对" src="template/qu_115style/images/rec_subtract.gif"/>
+            反对
+            <span id="recommendv_subtract" style="display:none">
+             0
+            </span>
+           </i>
+          </a>
+          <!-- 举报 willson 20180210 -->
+         </div>
+        </td>
+       </tr>
+       <tr id="_postposition11609761">
+       </tr>
+       <tr>
+        <td class="pls">
+        </td>
+        <td class="plc" style="overflow:visible;">
+        </td>
+       </tr>
+       <tr class="ad">
+        <td class="pls">
+        </td>
+        <td class="plc">
+        </td>
+       </tr>
+      </table>
+      <script reload="1" type="text/javascript">
+       aimgcount[11609761] = ['XuS9v','P4Jrm','aUR68','g3c77','LPPiL','u8n0u','ygIeg','iYm7k','A0Qz0','c35oY','P9cxo','raTTG','E1B1x','bQNxQ','BIX92','aR60U','BO9On','nwc1c','lEJRQ'];
+attachimggroup(11609761);
+var aimgfid = 0;
+      </script>
+     </div>
+     <div id="post_11609772" style="">
+      <table cellpadding="0" cellspacing="0" class="plhin" id="pid11609772" summary="pid11609772">
+       <tr>
+        <td class="pls" rowspan="2">
+         <div class="pls favatar" id="favatar11609772" style="padding-top:4px;">
+          <div class="p_pop blk bui card_gender_0" id="userinfo11609772" style="display: none; ">
+           <div class="m z">
+            <div id="userinfo11609772_ma">
+            </div>
+           </div>
+           <div class="i y">
+            <div>
+             <strong>
+              <a class="xi2" href="home.php?mod=space&amp;uid=838170" target="_blank">
+               hero929
+              </a>
+             </strong>
+             <em>
+              当前离线
+             </em>
+             <a class="xi2" href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_838170&amp;touid=838170&amp;pmid=0&amp;daterange=2&amp;pid=11609772&amp;tid=769734" onclick="showWindow('sendpm', this.href);" title="发消息">
+              <img src="/template/qu_115style/images/pmto.gif"/>
+             </a>
+            </div>
+            <dl class="cl">
+             <dt>
+              积分
+             </dt>
+             <dd>
+              <a class="xi2" href="home.php?mod=space&amp;uid=838170&amp;do=profile" target="_blank">
+               451
+              </a>
+             </dd>
+             <dt>
+              精华
+             </dt>
+             <dd>
+              0
+             </dd>
+             <dt>
+              金币
+             </dt>
+             <dd>
+              2400
+             </dd>
+             <dt>
+              贡献
+             </dt>
+             <dd>
+              126
+             </dd>
+             <dt>
+              推广
+             </dt>
+             <dd>
+              0
+             </dd>
+             <dt>
+              性别
+             </dt>
+             <dd>
+              保密
+             </dd>
+             <br/>
+             <dt>
+              注册时间
+             </dt>
+             <dd>
+              2018-11-20
+             </dd>
+            </dl>
+            <div class="imicn">
+             <a href="home.php?mod=space&amp;uid=838170&amp;do=profile" target="_blank" title="查看详细资料">
+              <img alt="查看详细资料" src="template/qu_115style/images/userinfo.gif"/>
+             </a>
+            </div>
+            <div id="avatarfeed">
+             <span id="threadsortswait">
+             </span>
+            </div>
+           </div>
+          </div>
+          <div>
+           <div class="avatar" onmouseover="showauthor(this, 'userinfo11609772')">
+            <a class="avtm" href="home.php?mod=space&amp;uid=838170" target="_blank">
+             <img onerror="this.onerror=null;this.src='http://uc.taoy88.info/uc_server/images/noavatar_middle.gif'" src="http://uc.taoy88.info/uc_server/data/avatar/000/83/81/70_avatar_middle.jpg"/>
+            </a>
+           </div>
+          </div>
+         </div>
+        </td>
+        <td class="plc">
+         <div class="pi" style="position:relative;">
+          <strong>
+           <a href="forum.php?mod=redirect&amp;goto=findpost&amp;ptid=769734&amp;pid=11609772&amp;fromuid=636112" id="postnum11609772" onclick="setCopy(this.href, '帖子地址复制成功');return false;" title="您的朋友访问此链接后，您将获得相应的积分奖励">
+            沙发
+           </a>
+          </strong>
+          <div class="pti">
+           <div class="pdbt">
+           </div>
+           <div class="authi qing_authi">
+            <a class="xi2" href="home.php?mod=space&amp;uid=838170" target="_blank">
+             hero929
+            </a>
+            <p>
+             <em>
+              <a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=13" target="_blank">
+               4级
+              </a>
+             </em>
+            </p>
+            <em id="authorposton11609772" style="float: left;">
+             2019-5-4 21:23:19
+            </em>
+            <span class="xg1" style="float: left;margin-left: 5px;">
+             <img src="/img/mobile-attach-1.png"/>
+            </span>
+            <div class="hin" style="float: left;margin-left: 20px;width: 400px;">
+             <div class="pob cl">
+              <em>
+              </em>
+              <a href="javascript:;" onclick="showWindow('rate', 'forum.php?mod=misc&amp;action=rate&amp;tid=769734&amp;pid=11609772', 'get', -1);return false;">
+               评分
+              </a>
+              <a href="javascript:;" onclick="showWindow('miscreport11609772', 'misc.php?mod=report&amp;rtype=post&amp;rid=11609772&amp;tid=769734&amp;fid=36', 'get', -1);return false;">
+               举报
+              </a>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="pct">
+          <div class="pcb">
+           <div class="locked c3">
+            此帖仅作者可见
+           </div>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="plc plm">
+        </td>
+       </tr>
+       <tr id="_postposition11609772">
+       </tr>
+       <tr>
+        <td class="pls">
+        </td>
+        <td class="plc" style="overflow:visible;">
+        </td>
+       </tr>
+       <tr class="ad">
+        <td class="pls">
+        </td>
+        <td class="plc">
+        </td>
+       </tr>
+      </table>
+     </div>
+     <div id="post_11609827" style="">
+      <table cellpadding="0" cellspacing="0" class="plhin" id="pid11609827" summary="pid11609827">
+       <tr>
+        <td class="pls" rowspan="2">
+         <div class="pls favatar" id="favatar11609827" style="padding-top:4px;">
+          <div class="p_pop blk bui card_gender_0" id="userinfo11609827" style="display: none; ">
+           <div class="m z">
+            <div id="userinfo11609827_ma">
+            </div>
+           </div>
+           <div class="i y">
+            <div>
+             <strong>
+              <a class="xi2" href="home.php?mod=space&amp;uid=901306" target="_blank">
+               ppgmy
+              </a>
+             </strong>
+             <em>
+              当前离线
+             </em>
+             <a class="xi2" href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_901306&amp;touid=901306&amp;pmid=0&amp;daterange=2&amp;pid=11609827&amp;tid=769734" onclick="showWindow('sendpm', this.href);" title="发消息">
+              <img src="/template/qu_115style/images/pmto.gif"/>
+             </a>
+            </div>
+            <dl class="cl">
+             <dt>
+              积分
+             </dt>
+             <dd>
+              <a class="xi2" href="home.php?mod=space&amp;uid=901306&amp;do=profile" target="_blank">
+               127
+              </a>
+             </dd>
+             <dt>
+              精华
+             </dt>
+             <dd>
+              0
+             </dd>
+             <dt>
+              金币
+             </dt>
+             <dd>
+              788
+             </dd>
+             <dt>
+              贡献
+             </dt>
+             <dd>
+              29
+             </dd>
+             <dt>
+              推广
+             </dt>
+             <dd>
+              1
+             </dd>
+             <dt>
+              性别
+             </dt>
+             <dd>
+              保密
+             </dd>
+             <br/>
+             <dt>
+              注册时间
+             </dt>
+             <dd>
+              2019-3-29
+             </dd>
+            </dl>
+            <div class="imicn">
+             <a href="home.php?mod=space&amp;uid=901306&amp;do=profile" target="_blank" title="查看详细资料">
+              <img alt="查看详细资料" src="template/qu_115style/images/userinfo.gif"/>
+             </a>
+            </div>
+            <div id="avatarfeed">
+             <span id="threadsortswait">
+             </span>
+            </div>
+           </div>
+          </div>
+          <div>
+           <div class="avatar" onmouseover="showauthor(this, 'userinfo11609827')">
+            <a class="avtm" href="home.php?mod=space&amp;uid=901306" target="_blank">
+             <img onerror="this.onerror=null;this.src='http://uc.taoy88.info/uc_server/images/noavatar_middle.gif'" src="http://uc.taoy88.info/uc_server/data/avatar/000/90/13/06_avatar_middle.jpg"/>
+            </a>
+           </div>
+          </div>
+         </div>
+        </td>
+        <td class="plc">
+         <div class="pi" style="position:relative;">
+          <strong>
+           <a href="forum.php?mod=redirect&amp;goto=findpost&amp;ptid=769734&amp;pid=11609827&amp;fromuid=636112" id="postnum11609827" onclick="setCopy(this.href, '帖子地址复制成功');return false;" title="您的朋友访问此链接后，您将获得相应的积分奖励">
+            板凳
+           </a>
+          </strong>
+          <div class="pti">
+           <div class="pdbt">
+           </div>
+           <div class="authi qing_authi">
+            <a class="xi2" href="home.php?mod=space&amp;uid=901306" target="_blank">
+             ppgmy
+            </a>
+            <p>
+             <em>
+              <a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=12" target="_blank">
+               3级
+              </a>
+             </em>
+            </p>
+            <em id="authorposton11609827" style="float: left;">
+             2019-5-4 21:29:43
+            </em>
+            <span class="xg1" style="float: left;margin-left: 5px;">
+             <img src="/img/mobile-attach-1.png"/>
+            </span>
+            <div class="hin" style="float: left;margin-left: 20px;width: 400px;">
+             <div class="pob cl">
+              <em>
+              </em>
+              <a href="javascript:;" onclick="showWindow('rate', 'forum.php?mod=misc&amp;action=rate&amp;tid=769734&amp;pid=11609827', 'get', -1);return false;">
+               评分
+              </a>
+              <a href="javascript:;" onclick="showWindow('miscreport11609827', 'misc.php?mod=report&amp;rtype=post&amp;rid=11609827&amp;tid=769734&amp;fid=36', 'get', -1);return false;">
+               举报
+              </a>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="pct">
+          <div class="pcb">
+           <div class="locked c3">
+            此帖仅作者可见
+           </div>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="plc plm">
+        </td>
+       </tr>
+       <tr id="_postposition11609827">
+       </tr>
+       <tr>
+        <td class="pls">
+        </td>
+        <td class="plc" style="overflow:visible;">
+        </td>
+       </tr>
+       <tr class="ad">
+        <td class="pls">
+        </td>
+        <td class="plc">
+        </td>
+       </tr>
+      </table>
+     </div>
+     <div id="post_11609835" style="">
+      <table cellpadding="0" cellspacing="0" class="plhin" id="pid11609835" summary="pid11609835">
+       <tr>
+        <td class="pls" rowspan="2">
+         <div class="pls favatar" id="favatar11609835" style="padding-top:4px;">
+          <div class="p_pop blk bui card_gender_0" id="userinfo11609835" style="display: none; ">
+           <div class="m z">
+            <div id="userinfo11609835_ma">
+            </div>
+           </div>
+           <div class="i y">
+            <div>
+             <strong>
+              <a class="xi2" href="home.php?mod=space&amp;uid=826378" target="_blank">
+               zzh157266
+              </a>
+             </strong>
+             <em>
+              当前离线
+             </em>
+             <a class="xi2" href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_826378&amp;touid=826378&amp;pmid=0&amp;daterange=2&amp;pid=11609835&amp;tid=769734" onclick="showWindow('sendpm', this.href);" title="发消息">
+              <img src="/template/qu_115style/images/pmto.gif"/>
+             </a>
+            </div>
+            <dl class="cl">
+             <dt>
+              积分
+             </dt>
+             <dd>
+              <a class="xi2" href="home.php?mod=space&amp;uid=826378&amp;do=profile" target="_blank">
+               135
+              </a>
+             </dd>
+             <dt>
+              精华
+             </dt>
+             <dd>
+              0
+             </dd>
+             <dt>
+              金币
+             </dt>
+             <dd>
+              820
+             </dd>
+             <dt>
+              贡献
+             </dt>
+             <dd>
+              33
+             </dd>
+             <dt>
+              推广
+             </dt>
+             <dd>
+              0
+             </dd>
+             <dt>
+              性别
+             </dt>
+             <dd>
+              保密
+             </dd>
+             <br/>
+             <dt>
+              注册时间
+             </dt>
+             <dd>
+              2018-11-4
+             </dd>
+            </dl>
+            <div class="imicn">
+             <a href="home.php?mod=space&amp;uid=826378&amp;do=profile" target="_blank" title="查看详细资料">
+              <img alt="查看详细资料" src="template/qu_115style/images/userinfo.gif"/>
+             </a>
+            </div>
+            <div id="avatarfeed">
+             <span id="threadsortswait">
+             </span>
+            </div>
+           </div>
+          </div>
+          <div>
+           <div class="avatar" onmouseover="showauthor(this, 'userinfo11609835')">
+            <a class="avtm" href="home.php?mod=space&amp;uid=826378" target="_blank">
+             <img onerror="this.onerror=null;this.src='http://uc.taoy88.info/uc_server/images/noavatar_middle.gif'" src="http://uc.taoy88.info/uc_server/data/avatar/000/82/63/78_avatar_middle.jpg"/>
+            </a>
+           </div>
+          </div>
+         </div>
+        </td>
+        <td class="plc">
+         <div class="pi" style="position:relative;">
+          <strong>
+           <a href="forum.php?mod=redirect&amp;goto=findpost&amp;ptid=769734&amp;pid=11609835&amp;fromuid=636112" id="postnum11609835" onclick="setCopy(this.href, '帖子地址复制成功');return false;" title="您的朋友访问此链接后，您将获得相应的积分奖励">
+            地板
+           </a>
+          </strong>
+          <div class="pti">
+           <div class="pdbt">
+           </div>
+           <div class="authi qing_authi">
+            <a class="xi2" href="home.php?mod=space&amp;uid=826378" target="_blank">
+             zzh157266
+            </a>
+            <p>
+             <em>
+              <a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=12" target="_blank">
+               3级
+              </a>
+             </em>
+            </p>
+            <em id="authorposton11609835" style="float: left;">
+             2019-5-4 21:30:54
+            </em>
+            <span class="xg1" style="float: left;margin-left: 5px;">
+             <img src="/img/mobile-attach-1.png"/>
+            </span>
+            <div class="hin" style="float: left;margin-left: 20px;width: 400px;">
+             <div class="pob cl">
+              <em>
+              </em>
+              <a href="javascript:;" onclick="showWindow('rate', 'forum.php?mod=misc&amp;action=rate&amp;tid=769734&amp;pid=11609835', 'get', -1);return false;">
+               评分
+              </a>
+              <a href="javascript:;" onclick="showWindow('miscreport11609835', 'misc.php?mod=report&amp;rtype=post&amp;rid=11609835&amp;tid=769734&amp;fid=36', 'get', -1);return false;">
+               举报
+              </a>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="pct">
+          <div class="pcb">
+           <div class="locked c3">
+            此帖仅作者可见
+           </div>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="plc plm">
+        </td>
+       </tr>
+       <tr id="_postposition11609835">
+       </tr>
+       <tr>
+        <td class="pls">
+        </td>
+        <td class="plc" style="overflow:visible;">
+        </td>
+       </tr>
+       <tr class="ad">
+        <td class="pls">
+        </td>
+        <td class="plc">
+        </td>
+       </tr>
+      </table>
+     </div>
+     <div id="post_11609850" style="">
+      <table cellpadding="0" cellspacing="0" class="plhin" id="pid11609850" summary="pid11609850">
+       <tr>
+        <td class="pls" rowspan="2">
+         <div class="pls favatar" id="favatar11609850" style="padding-top:4px;">
+          <div class="p_pop blk bui card_gender_0" id="userinfo11609850" style="display: none; ">
+           <div class="m z">
+            <div id="userinfo11609850_ma">
+            </div>
+           </div>
+           <div class="i y">
+            <div>
+             <strong>
+              <a class="xi2" href="home.php?mod=space&amp;uid=65913" target="_blank">
+               mako123
+              </a>
+             </strong>
+             <em>
+              当前离线
+             </em>
+             <a class="xi2" href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_65913&amp;touid=65913&amp;pmid=0&amp;daterange=2&amp;pid=11609850&amp;tid=769734" onclick="showWindow('sendpm', this.href);" title="发消息">
+              <img src="/template/qu_115style/images/pmto.gif"/>
+             </a>
+            </div>
+            <dl class="cl">
+             <dt>
+              积分
+             </dt>
+             <dd>
+              <a class="xi2" href="home.php?mod=space&amp;uid=65913&amp;do=profile" target="_blank">
+               1549
+              </a>
+             </dd>
+             <dt>
+              精华
+             </dt>
+             <dd>
+              0
+             </dd>
+             <dt>
+              金币
+             </dt>
+             <dd>
+              5950
+             </dd>
+             <dt>
+              贡献
+             </dt>
+             <dd>
+              473
+             </dd>
+             <dt>
+              推广
+             </dt>
+             <dd>
+              0
+             </dd>
+             <dt>
+              性别
+             </dt>
+             <dd>
+              保密
+             </dd>
+             <br/>
+             <dt>
+              注册时间
+             </dt>
+             <dd>
+              2016-2-23
+             </dd>
+            </dl>
+            <div class="imicn">
+             <a href="home.php?mod=space&amp;uid=65913&amp;do=profile" target="_blank" title="查看详细资料">
+              <img alt="查看详细资料" src="template/qu_115style/images/userinfo.gif"/>
+             </a>
+            </div>
+            <div id="avatarfeed">
+             <span id="threadsortswait">
+             </span>
+            </div>
+           </div>
+          </div>
+          <div>
+           <div class="avatar" onmouseover="showauthor(this, 'userinfo11609850')">
+            <a class="avtm" href="home.php?mod=space&amp;uid=65913" target="_blank">
+             <img onerror="this.onerror=null;this.src='http://uc.taoy88.info/uc_server/images/noavatar_middle.gif'" src="http://uc.taoy88.info/uc_server/data/avatar/000/06/59/13_avatar_middle.jpg"/>
+            </a>
+           </div>
+          </div>
+         </div>
+        </td>
+        <td class="plc">
+         <div class="pi" style="position:relative;">
+          <strong>
+           <a href="forum.php?mod=redirect&amp;goto=findpost&amp;ptid=769734&amp;pid=11609850&amp;fromuid=636112" id="postnum11609850" onclick="setCopy(this.href, '帖子地址复制成功');return false;" title="您的朋友访问此链接后，您将获得相应的积分奖励">
+            <em>
+             5
+            </em>
+            <sup>
+             #
+            </sup>
+           </a>
+          </strong>
+          <div class="pti">
+           <div class="pdbt">
+           </div>
+           <div class="authi qing_authi">
+            <a class="xi2" href="home.php?mod=space&amp;uid=65913" target="_blank">
+             mako123
+            </a>
+            <p>
+             <em>
+              <a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=15" target="_blank">
+               6级
+              </a>
+             </em>
+            </p>
+            <em id="authorposton11609850" style="float: left;">
+             2019-5-4 21:33:46
+            </em>
+            <span class="xg1" style="float: left;margin-left: 5px;">
+             <img src="/img/mobile-attach-1.png"/>
+            </span>
+            <div class="hin" style="float: left;margin-left: 20px;width: 400px;">
+             <div class="pob cl">
+              <em>
+              </em>
+              <a href="javascript:;" onclick="showWindow('rate', 'forum.php?mod=misc&amp;action=rate&amp;tid=769734&amp;pid=11609850', 'get', -1);return false;">
+               评分
+              </a>
+              <a href="javascript:;" onclick="showWindow('miscreport11609850', 'misc.php?mod=report&amp;rtype=post&amp;rid=11609850&amp;tid=769734&amp;fid=36', 'get', -1);return false;">
+               举报
+              </a>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="pct">
+          <div class="pcb">
+           <div class="locked c3">
+            此帖仅作者可见
+           </div>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="plc plm">
+        </td>
+       </tr>
+       <tr id="_postposition11609850">
+       </tr>
+       <tr>
+        <td class="pls">
+        </td>
+        <td class="plc" style="overflow:visible;">
+        </td>
+       </tr>
+       <tr class="ad">
+        <td class="pls">
+        </td>
+        <td class="plc">
+        </td>
+       </tr>
+      </table>
+     </div>
+     <div id="post_11609871" style="">
+      <table cellpadding="0" cellspacing="0" class="plhin" id="pid11609871" summary="pid11609871">
+       <tr>
+        <td class="pls" rowspan="2">
+         <div class="pls favatar" id="favatar11609871" style="padding-top:4px;">
+          <div class="p_pop blk bui card_gender_0" id="userinfo11609871" style="display: none; ">
+           <div class="m z">
+            <div id="userinfo11609871_ma">
+            </div>
+           </div>
+           <div class="i y">
+            <div>
+             <strong>
+              <a class="xi2" href="home.php?mod=space&amp;uid=911515" target="_blank">
+               16800
+              </a>
+             </strong>
+             <em>
+              当前离线
+             </em>
+             <a class="xi2" href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_911515&amp;touid=911515&amp;pmid=0&amp;daterange=2&amp;pid=11609871&amp;tid=769734" onclick="showWindow('sendpm', this.href);" title="发消息">
+              <img src="/template/qu_115style/images/pmto.gif"/>
+             </a>
+            </div>
+            <dl class="cl">
+             <dt>
+              积分
+             </dt>
+             <dd>
+              <a class="xi2" href="home.php?mod=space&amp;uid=911515&amp;do=profile" target="_blank">
+               142
+              </a>
+             </dd>
+             <dt>
+              精华
+             </dt>
+             <dd>
+              0
+             </dd>
+             <dt>
+              金币
+             </dt>
+             <dd>
+              670
+             </dd>
+             <dt>
+              贡献
+             </dt>
+             <dd>
+              50
+             </dd>
+             <dt>
+              推广
+             </dt>
+             <dd>
+              0
+             </dd>
+             <dt>
+              性别
+             </dt>
+             <dd>
+              保密
+             </dd>
+             <br/>
+             <dt>
+              注册时间
+             </dt>
+             <dd>
+              2019-4-23
+             </dd>
+            </dl>
+            <div class="imicn">
+             <a href="home.php?mod=space&amp;uid=911515&amp;do=profile" target="_blank" title="查看详细资料">
+              <img alt="查看详细资料" src="template/qu_115style/images/userinfo.gif"/>
+             </a>
+            </div>
+            <div id="avatarfeed">
+             <span id="threadsortswait">
+             </span>
+            </div>
+           </div>
+          </div>
+          <div>
+           <div class="avatar" onmouseover="showauthor(this, 'userinfo11609871')">
+            <a class="avtm" href="home.php?mod=space&amp;uid=911515" target="_blank">
+             <img onerror="this.onerror=null;this.src='http://uc.taoy88.info/uc_server/images/noavatar_middle.gif'" src="http://uc.taoy88.info/uc_server/data/avatar/000/91/15/15_avatar_middle.jpg"/>
+            </a>
+           </div>
+          </div>
+         </div>
+        </td>
+        <td class="plc">
+         <div class="pi" style="position:relative;">
+          <strong>
+           <a href="forum.php?mod=redirect&amp;goto=findpost&amp;ptid=769734&amp;pid=11609871&amp;fromuid=636112" id="postnum11609871" onclick="setCopy(this.href, '帖子地址复制成功');return false;" title="您的朋友访问此链接后，您将获得相应的积分奖励">
+            <em>
+             6
+            </em>
+            <sup>
+             #
+            </sup>
+           </a>
+          </strong>
+          <div class="pti">
+           <div class="pdbt">
+           </div>
+           <div class="authi qing_authi">
+            <a class="xi2" href="home.php?mod=space&amp;uid=911515" target="_blank">
+             16800
+            </a>
+            <p>
+             <em>
+              <a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=12" target="_blank">
+               3级
+              </a>
+             </em>
+            </p>
+            <em id="authorposton11609871" style="float: left;">
+             2019-5-4 21:35:46
+            </em>
+            <span class="xg1" style="float: left;margin-left: 5px;">
+             <img src="/img/mobile-attach-1.png"/>
+            </span>
+            <div class="hin" style="float: left;margin-left: 20px;width: 400px;">
+             <div class="pob cl">
+              <em>
+              </em>
+              <a href="javascript:;" onclick="showWindow('rate', 'forum.php?mod=misc&amp;action=rate&amp;tid=769734&amp;pid=11609871', 'get', -1);return false;">
+               评分
+              </a>
+              <a href="javascript:;" onclick="showWindow('miscreport11609871', 'misc.php?mod=report&amp;rtype=post&amp;rid=11609871&amp;tid=769734&amp;fid=36', 'get', -1);return false;">
+               举报
+              </a>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="pct">
+          <div class="pcb">
+           <div class="locked c3">
+            此帖仅作者可见
+           </div>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="plc plm">
+        </td>
+       </tr>
+       <tr id="_postposition11609871">
+       </tr>
+       <tr>
+        <td class="pls">
+        </td>
+        <td class="plc" style="overflow:visible;">
+        </td>
+       </tr>
+       <tr class="ad">
+        <td class="pls">
+        </td>
+        <td class="plc">
+        </td>
+       </tr>
+      </table>
+     </div>
+     <div id="post_11609877" style="">
+      <table cellpadding="0" cellspacing="0" class="plhin" id="pid11609877" summary="pid11609877">
+       <tr>
+        <td class="pls" rowspan="2">
+         <div class="pls favatar" id="favatar11609877" style="padding-top:4px;">
+          <div class="p_pop blk bui card_gender_0" id="userinfo11609877" style="display: none; ">
+           <div class="m z">
+            <div id="userinfo11609877_ma">
+            </div>
+           </div>
+           <div class="i y">
+            <div>
+             <strong>
+              <a class="xi2" href="home.php?mod=space&amp;uid=477808" target="_blank">
+               996710751
+              </a>
+             </strong>
+             <em>
+              当前离线
+             </em>
+             <a class="xi2" href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_477808&amp;touid=477808&amp;pmid=0&amp;daterange=2&amp;pid=11609877&amp;tid=769734" onclick="showWindow('sendpm', this.href);" title="发消息">
+              <img src="/template/qu_115style/images/pmto.gif"/>
+             </a>
+            </div>
+            <dl class="cl">
+             <dt>
+              积分
+             </dt>
+             <dd>
+              <a class="xi2" href="home.php?mod=space&amp;uid=477808&amp;do=profile" target="_blank">
+               293
+              </a>
+             </dd>
+             <dt>
+              精华
+             </dt>
+             <dd>
+              0
+             </dd>
+             <dt>
+              金币
+             </dt>
+             <dd>
+              1960
+             </dd>
+             <dt>
+              贡献
+             </dt>
+             <dd>
+              58
+             </dd>
+             <dt>
+              推广
+             </dt>
+             <dd>
+              0
+             </dd>
+             <dt>
+              性别
+             </dt>
+             <dd>
+              保密
+             </dd>
+             <br/>
+             <dt>
+              注册时间
+             </dt>
+             <dd>
+              2017-7-22
+             </dd>
+            </dl>
+            <div class="imicn">
+             <a href="home.php?mod=space&amp;uid=477808&amp;do=profile" target="_blank" title="查看详细资料">
+              <img alt="查看详细资料" src="template/qu_115style/images/userinfo.gif"/>
+             </a>
+            </div>
+            <div id="avatarfeed">
+             <span id="threadsortswait">
+             </span>
+            </div>
+           </div>
+          </div>
+          <div>
+           <div class="avatar" onmouseover="showauthor(this, 'userinfo11609877')">
+            <a class="avtm" href="home.php?mod=space&amp;uid=477808" target="_blank">
+             <img onerror="this.onerror=null;this.src='http://uc.taoy88.info/uc_server/images/noavatar_middle.gif'" src="http://uc.taoy88.info/uc_server/data/avatar/000/47/78/08_avatar_middle.jpg"/>
+            </a>
+           </div>
+          </div>
+         </div>
+        </td>
+        <td class="plc">
+         <div class="pi" style="position:relative;">
+          <strong>
+           <a href="forum.php?mod=redirect&amp;goto=findpost&amp;ptid=769734&amp;pid=11609877&amp;fromuid=636112" id="postnum11609877" onclick="setCopy(this.href, '帖子地址复制成功');return false;" title="您的朋友访问此链接后，您将获得相应的积分奖励">
+            <em>
+             7
+            </em>
+            <sup>
+             #
+            </sup>
+           </a>
+          </strong>
+          <div class="pti">
+           <div class="pdbt">
+           </div>
+           <div class="authi qing_authi">
+            <a class="xi2" href="home.php?mod=space&amp;uid=477808" target="_blank">
+             996710751
+            </a>
+            <p>
+             <em>
+              <a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=13" target="_blank">
+               4级
+              </a>
+             </em>
+            </p>
+            <em id="authorposton11609877" style="float: left;">
+             2019-5-4 21:36:22
+            </em>
+            <span class="xg1" style="float: left;margin-left: 5px;">
+             <img src="/img/mobile-attach-1.png"/>
+            </span>
+            <div class="hin" style="float: left;margin-left: 20px;width: 400px;">
+             <div class="pob cl">
+              <em>
+              </em>
+              <a href="javascript:;" onclick="showWindow('rate', 'forum.php?mod=misc&amp;action=rate&amp;tid=769734&amp;pid=11609877', 'get', -1);return false;">
+               评分
+              </a>
+              <a href="javascript:;" onclick="showWindow('miscreport11609877', 'misc.php?mod=report&amp;rtype=post&amp;rid=11609877&amp;tid=769734&amp;fid=36', 'get', -1);return false;">
+               举报
+              </a>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="pct">
+          <div class="pcb">
+           <div class="locked c3">
+            此帖仅作者可见
+           </div>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="plc plm">
+        </td>
+       </tr>
+       <tr id="_postposition11609877">
+       </tr>
+       <tr>
+        <td class="pls">
+        </td>
+        <td class="plc" style="overflow:visible;">
+        </td>
+       </tr>
+       <tr class="ad">
+        <td class="pls">
+        </td>
+        <td class="plc">
+        </td>
+       </tr>
+      </table>
+     </div>
+     <div id="post_11609883" style="">
+      <table cellpadding="0" cellspacing="0" class="plhin" id="pid11609883" summary="pid11609883">
+       <tr>
+        <td class="pls" rowspan="2">
+         <div class="pls favatar" id="favatar11609883" style="padding-top:4px;">
+          <div class="p_pop blk bui card_gender_0" id="userinfo11609883" style="display: none; ">
+           <div class="m z">
+            <div id="userinfo11609883_ma">
+            </div>
+           </div>
+           <div class="i y">
+            <div>
+             <strong>
+              <a class="xi2" href="home.php?mod=space&amp;uid=201357" target="_blank">
+               woaism
+              </a>
+             </strong>
+             <em>
+              当前离线
+             </em>
+             <a class="xi2" href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_201357&amp;touid=201357&amp;pmid=0&amp;daterange=2&amp;pid=11609883&amp;tid=769734" onclick="showWindow('sendpm', this.href);" title="发消息">
+              <img src="/template/qu_115style/images/pmto.gif"/>
+             </a>
+            </div>
+            <dl class="cl">
+             <dt>
+              积分
+             </dt>
+             <dd>
+              <a class="xi2" href="home.php?mod=space&amp;uid=201357&amp;do=profile" target="_blank">
+               476
+              </a>
+             </dd>
+             <dt>
+              精华
+             </dt>
+             <dd>
+              0
+             </dd>
+             <dt>
+              金币
+             </dt>
+             <dd>
+              2730
+             </dd>
+             <dt>
+              贡献
+             </dt>
+             <dd>
+              95
+             </dd>
+             <dt>
+              推广
+             </dt>
+             <dd>
+              0
+             </dd>
+             <dt>
+              性别
+             </dt>
+             <dd>
+              保密
+             </dd>
+             <br/>
+             <dt>
+              注册时间
+             </dt>
+             <dd>
+              2016-7-11
+             </dd>
+            </dl>
+            <div class="imicn">
+             <a href="home.php?mod=space&amp;uid=201357&amp;do=profile" target="_blank" title="查看详细资料">
+              <img alt="查看详细资料" src="template/qu_115style/images/userinfo.gif"/>
+             </a>
+            </div>
+            <div id="avatarfeed">
+             <span id="threadsortswait">
+             </span>
+            </div>
+           </div>
+          </div>
+          <div>
+           <div class="avatar" onmouseover="showauthor(this, 'userinfo11609883')">
+            <a class="avtm" href="home.php?mod=space&amp;uid=201357" target="_blank">
+             <img onerror="this.onerror=null;this.src='http://uc.taoy88.info/uc_server/images/noavatar_middle.gif'" src="http://uc.taoy88.info/uc_server/data/avatar/000/20/13/57_avatar_middle.jpg"/>
+            </a>
+           </div>
+          </div>
+         </div>
+        </td>
+        <td class="plc">
+         <div class="pi" style="position:relative;">
+          <strong>
+           <a href="forum.php?mod=redirect&amp;goto=findpost&amp;ptid=769734&amp;pid=11609883&amp;fromuid=636112" id="postnum11609883" onclick="setCopy(this.href, '帖子地址复制成功');return false;" title="您的朋友访问此链接后，您将获得相应的积分奖励">
+            <em>
+             8
+            </em>
+            <sup>
+             #
+            </sup>
+           </a>
+          </strong>
+          <div class="pti">
+           <div class="pdbt">
+           </div>
+           <div class="authi qing_authi">
+            <a class="xi2" href="home.php?mod=space&amp;uid=201357" target="_blank">
+             woaism
+            </a>
+            <p>
+             <em>
+              <a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=13" target="_blank">
+               4级
+              </a>
+             </em>
+            </p>
+            <em id="authorposton11609883" style="float: left;">
+             2019-5-4 21:36:45
+            </em>
+            <span class="xg1" style="float: left;margin-left: 5px;">
+             <img src="/img/mobile-attach-1.png"/>
+            </span>
+            <div class="hin" style="float: left;margin-left: 20px;width: 400px;">
+             <div class="pob cl">
+              <em>
+              </em>
+              <a href="javascript:;" onclick="showWindow('rate', 'forum.php?mod=misc&amp;action=rate&amp;tid=769734&amp;pid=11609883', 'get', -1);return false;">
+               评分
+              </a>
+              <a href="javascript:;" onclick="showWindow('miscreport11609883', 'misc.php?mod=report&amp;rtype=post&amp;rid=11609883&amp;tid=769734&amp;fid=36', 'get', -1);return false;">
+               举报
+              </a>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="pct">
+          <div class="pcb">
+           <div class="locked c3">
+            此帖仅作者可见
+           </div>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="plc plm">
+        </td>
+       </tr>
+       <tr id="_postposition11609883">
+       </tr>
+       <tr>
+        <td class="pls">
+        </td>
+        <td class="plc" style="overflow:visible;">
+        </td>
+       </tr>
+       <tr class="ad">
+        <td class="pls">
+        </td>
+        <td class="plc">
+        </td>
+       </tr>
+      </table>
+     </div>
+     <div id="post_11609884" style="">
+      <table cellpadding="0" cellspacing="0" class="plhin" id="pid11609884" summary="pid11609884">
+       <tr>
+        <td class="pls" rowspan="2">
+         <div class="pls favatar" id="favatar11609884" style="padding-top:4px;">
+          <div class="p_pop blk bui card_gender_0" id="userinfo11609884" style="display: none; ">
+           <div class="m z">
+            <div id="userinfo11609884_ma">
+            </div>
+           </div>
+           <div class="i y">
+            <div>
+             <strong>
+              <a class="xi2" href="home.php?mod=space&amp;uid=565769" target="_blank">
+               vip88566
+              </a>
+             </strong>
+             <em>
+              当前在线
+             </em>
+             <a class="xi2" href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_565769&amp;touid=565769&amp;pmid=0&amp;daterange=2&amp;pid=11609884&amp;tid=769734" onclick="showWindow('sendpm', this.href);" title="发消息">
+              <img src="/template/qu_115style/images/pmto.gif"/>
+             </a>
+            </div>
+            <dl class="cl">
+             <dt>
+              积分
+             </dt>
+             <dd>
+              <a class="xi2" href="home.php?mod=space&amp;uid=565769&amp;do=profile" target="_blank">
+               898
+              </a>
+             </dd>
+             <dt>
+              精华
+             </dt>
+             <dd>
+              0
+             </dd>
+             <dt>
+              金币
+             </dt>
+             <dd>
+              5058
+             </dd>
+             <dt>
+              贡献
+             </dt>
+             <dd>
+              227
+             </dd>
+             <dt>
+              推广
+             </dt>
+             <dd>
+              1
+             </dd>
+             <dt>
+              性别
+             </dt>
+             <dd>
+              保密
+             </dd>
+             <br/>
+             <dt>
+              注册时间
+             </dt>
+             <dd>
+              2017-11-12
+             </dd>
+            </dl>
+            <div class="imicn">
+             <a href="home.php?mod=space&amp;uid=565769&amp;do=profile" target="_blank" title="查看详细资料">
+              <img alt="查看详细资料" src="template/qu_115style/images/userinfo.gif"/>
+             </a>
+            </div>
+            <div id="avatarfeed">
+             <span id="threadsortswait">
+             </span>
+            </div>
+           </div>
+          </div>
+          <div>
+           <div class="avatar" onmouseover="showauthor(this, 'userinfo11609884')">
+            <a class="avtm" href="home.php?mod=space&amp;uid=565769" target="_blank">
+             <img onerror="this.onerror=null;this.src='http://uc.taoy88.info/uc_server/images/noavatar_middle.gif'" src="http://uc.taoy88.info/uc_server/data/avatar/000/56/57/69_avatar_middle.jpg"/>
+            </a>
+           </div>
+          </div>
+         </div>
+        </td>
+        <td class="plc">
+         <div class="pi" style="position:relative;">
+          <strong>
+           <a href="forum.php?mod=redirect&amp;goto=findpost&amp;ptid=769734&amp;pid=11609884&amp;fromuid=636112" id="postnum11609884" onclick="setCopy(this.href, '帖子地址复制成功');return false;" title="您的朋友访问此链接后，您将获得相应的积分奖励">
+            <em>
+             9
+            </em>
+            <sup>
+             #
+            </sup>
+           </a>
+          </strong>
+          <div class="pti">
+           <div class="pdbt">
+           </div>
+           <div class="authi qing_authi">
+            <a class="xi2" href="home.php?mod=space&amp;uid=565769" target="_blank">
+             vip88566
+            </a>
+            <p>
+             <em>
+              <a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=14" target="_blank">
+               5级
+              </a>
+             </em>
+            </p>
+            <em id="authorposton11609884" style="float: left;">
+             2019-5-4 21:36:53
+            </em>
+            <span class="xg1" style="float: left;margin-left: 5px;">
+             <img src="/img/mobile-attach-1.png"/>
+            </span>
+            <div class="hin" style="float: left;margin-left: 20px;width: 400px;">
+             <div class="pob cl">
+              <em>
+              </em>
+              <a href="javascript:;" onclick="showWindow('rate', 'forum.php?mod=misc&amp;action=rate&amp;tid=769734&amp;pid=11609884', 'get', -1);return false;">
+               评分
+              </a>
+              <a href="javascript:;" onclick="showWindow('miscreport11609884', 'misc.php?mod=report&amp;rtype=post&amp;rid=11609884&amp;tid=769734&amp;fid=36', 'get', -1);return false;">
+               举报
+              </a>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="pct">
+          <div class="pcb">
+           <div class="locked c3">
+            此帖仅作者可见
+           </div>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="plc plm">
+        </td>
+       </tr>
+       <tr id="_postposition11609884">
+       </tr>
+       <tr>
+        <td class="pls">
+        </td>
+        <td class="plc" style="overflow:visible;">
+        </td>
+       </tr>
+       <tr class="ad">
+        <td class="pls">
+        </td>
+        <td class="plc">
+        </td>
+       </tr>
+      </table>
+     </div>
+     <div id="post_11609885" style="">
+      <table cellpadding="0" cellspacing="0" class="plhin" id="pid11609885" summary="pid11609885">
+       <tr>
+        <td class="pls" rowspan="2">
+         <div class="pls favatar" id="favatar11609885" style="padding-top:4px;">
+          <div class="p_pop blk bui card_gender_0" id="userinfo11609885" style="display: none; ">
+           <div class="m z">
+            <div id="userinfo11609885_ma">
+            </div>
+           </div>
+           <div class="i y">
+            <div>
+             <strong>
+              <a class="xi2" href="home.php?mod=space&amp;uid=444395" target="_blank">
+               z2892512507
+              </a>
+             </strong>
+             <em>
+              当前离线
+             </em>
+             <a class="xi2" href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_444395&amp;touid=444395&amp;pmid=0&amp;daterange=2&amp;pid=11609885&amp;tid=769734" onclick="showWindow('sendpm', this.href);" title="发消息">
+              <img src="/template/qu_115style/images/pmto.gif"/>
+             </a>
+            </div>
+            <dl class="cl">
+             <dt>
+              积分
+             </dt>
+             <dd>
+              <a class="xi2" href="home.php?mod=space&amp;uid=444395&amp;do=profile" target="_blank">
+               1025
+              </a>
+             </dd>
+             <dt>
+              精华
+             </dt>
+             <dd>
+              0
+             </dd>
+             <dt>
+              金币
+             </dt>
+             <dd>
+              3825
+             </dd>
+             <dt>
+              贡献
+             </dt>
+             <dd>
+              326
+             </dd>
+             <dt>
+              推广
+             </dt>
+             <dd>
+              0
+             </dd>
+             <dt>
+              性别
+             </dt>
+             <dd>
+              保密
+             </dd>
+             <br/>
+             <dt>
+              注册时间
+             </dt>
+             <dd>
+              2017-6-29
+             </dd>
+            </dl>
+            <div class="imicn">
+             <a href="home.php?mod=space&amp;uid=444395&amp;do=profile" target="_blank" title="查看详细资料">
+              <img alt="查看详细资料" src="template/qu_115style/images/userinfo.gif"/>
+             </a>
+            </div>
+            <div id="avatarfeed">
+             <span id="threadsortswait">
+             </span>
+            </div>
+           </div>
+          </div>
+          <div>
+           <div class="avatar" onmouseover="showauthor(this, 'userinfo11609885')">
+            <a class="avtm" href="home.php?mod=space&amp;uid=444395" target="_blank">
+             <img onerror="this.onerror=null;this.src='http://uc.taoy88.info/uc_server/images/noavatar_middle.gif'" src="http://uc.taoy88.info/uc_server/data/avatar/000/44/43/95_avatar_middle.jpg"/>
+            </a>
+           </div>
+          </div>
+         </div>
+        </td>
+        <td class="plc">
+         <div class="pi" style="position:relative;">
+          <strong>
+           <a href="forum.php?mod=redirect&amp;goto=findpost&amp;ptid=769734&amp;pid=11609885&amp;fromuid=636112" id="postnum11609885" onclick="setCopy(this.href, '帖子地址复制成功');return false;" title="您的朋友访问此链接后，您将获得相应的积分奖励">
+            <em>
+             10
+            </em>
+            <sup>
+             #
+            </sup>
+           </a>
+          </strong>
+          <div class="pti">
+           <div class="pdbt">
+           </div>
+           <div class="authi qing_authi">
+            <a class="xi2" href="home.php?mod=space&amp;uid=444395" target="_blank">
+             z2892512507
+            </a>
+            <p>
+             <em>
+              <a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=15" target="_blank">
+               6级
+              </a>
+             </em>
+            </p>
+            <em id="authorposton11609885" style="float: left;">
+             2019-5-4 21:36:53
+            </em>
+            <span class="xg1" style="float: left;margin-left: 5px;">
+             <img src="/img/mobile-attach-1.png"/>
+            </span>
+            <div class="hin" style="float: left;margin-left: 20px;width: 400px;">
+             <div class="pob cl">
+              <em>
+              </em>
+              <a href="javascript:;" onclick="showWindow('rate', 'forum.php?mod=misc&amp;action=rate&amp;tid=769734&amp;pid=11609885', 'get', -1);return false;">
+               评分
+              </a>
+              <a href="javascript:;" onclick="showWindow('miscreport11609885', 'misc.php?mod=report&amp;rtype=post&amp;rid=11609885&amp;tid=769734&amp;fid=36', 'get', -1);return false;">
+               举报
+              </a>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="pct">
+          <div class="pcb">
+           <div class="locked c3">
+            此帖仅作者可见
+           </div>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="plc plm">
+        </td>
+       </tr>
+       <tr id="_postposition11609885">
+       </tr>
+       <tr>
+        <td class="pls">
+        </td>
+        <td class="plc" style="overflow:visible;">
+        </td>
+       </tr>
+       <tr class="ad">
+        <td class="pls">
+        </td>
+        <td class="plc">
+        </td>
+       </tr>
+      </table>
+     </div>
+     <div id="post_11609893" style="">
+      <table cellpadding="0" cellspacing="0" class="plhin" id="pid11609893" summary="pid11609893">
+       <tr>
+        <td class="pls" rowspan="2">
+         <div class="pls favatar" id="favatar11609893" style="padding-top:4px;">
+          <div class="p_pop blk bui card_gender_0" id="userinfo11609893" style="display: none; ">
+           <div class="m z">
+            <div id="userinfo11609893_ma">
+            </div>
+           </div>
+           <div class="i y">
+            <div>
+             <strong>
+              <a class="xi2" href="home.php?mod=space&amp;uid=906372" target="_blank">
+               xhyjp
+              </a>
+             </strong>
+             <em>
+              当前离线
+             </em>
+             <a class="xi2" href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_906372&amp;touid=906372&amp;pmid=0&amp;daterange=2&amp;pid=11609893&amp;tid=769734" onclick="showWindow('sendpm', this.href);" title="发消息">
+              <img src="/template/qu_115style/images/pmto.gif"/>
+             </a>
+            </div>
+            <dl class="cl">
+             <dt>
+              积分
+             </dt>
+             <dd>
+              <a class="xi2" href="home.php?mod=space&amp;uid=906372&amp;do=profile" target="_blank">
+               321
+              </a>
+             </dd>
+             <dt>
+              精华
+             </dt>
+             <dd>
+              0
+             </dd>
+             <dt>
+              金币
+             </dt>
+             <dd>
+              2670
+             </dd>
+             <dt>
+              贡献
+             </dt>
+             <dd>
+              36
+             </dd>
+             <dt>
+              推广
+             </dt>
+             <dd>
+              0
+             </dd>
+             <dt>
+              性别
+             </dt>
+             <dd>
+              保密
+             </dd>
+             <br/>
+             <dt>
+              注册时间
+             </dt>
+             <dd>
+              2019-4-11
+             </dd>
+            </dl>
+            <div class="imicn">
+             <a href="home.php?mod=space&amp;uid=906372&amp;do=profile" target="_blank" title="查看详细资料">
+              <img alt="查看详细资料" src="template/qu_115style/images/userinfo.gif"/>
+             </a>
+            </div>
+            <div id="avatarfeed">
+             <span id="threadsortswait">
+             </span>
+            </div>
+           </div>
+          </div>
+          <div>
+           <div class="avatar" onmouseover="showauthor(this, 'userinfo11609893')">
+            <a class="avtm" href="home.php?mod=space&amp;uid=906372" target="_blank">
+             <img onerror="this.onerror=null;this.src='http://uc.taoy88.info/uc_server/images/noavatar_middle.gif'" src="http://uc.taoy88.info/uc_server/data/avatar/000/90/63/72_avatar_middle.jpg"/>
+            </a>
+           </div>
+          </div>
+         </div>
+        </td>
+        <td class="plc">
+         <div class="pi" style="position:relative;">
+          <strong>
+           <a href="forum.php?mod=redirect&amp;goto=findpost&amp;ptid=769734&amp;pid=11609893&amp;fromuid=636112" id="postnum11609893" onclick="setCopy(this.href, '帖子地址复制成功');return false;" title="您的朋友访问此链接后，您将获得相应的积分奖励">
+            <em>
+             11
+            </em>
+            <sup>
+             #
+            </sup>
+           </a>
+          </strong>
+          <div class="pti">
+           <div class="pdbt">
+           </div>
+           <div class="authi qing_authi">
+            <a class="xi2" href="home.php?mod=space&amp;uid=906372" target="_blank">
+             xhyjp
+            </a>
+            <p>
+             <em>
+              <a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=13" target="_blank">
+               4级
+              </a>
+             </em>
+            </p>
+            <em id="authorposton11609893" style="float: left;">
+             2019-5-4 21:37:54
+            </em>
+            <span class="xg1" style="float: left;margin-left: 5px;">
+             <img src="/img/mobile-attach-1.png"/>
+            </span>
+            <div class="hin" style="float: left;margin-left: 20px;width: 400px;">
+             <div class="pob cl">
+              <em>
+              </em>
+              <a href="javascript:;" onclick="showWindow('rate', 'forum.php?mod=misc&amp;action=rate&amp;tid=769734&amp;pid=11609893', 'get', -1);return false;">
+               评分
+              </a>
+              <a href="javascript:;" onclick="showWindow('miscreport11609893', 'misc.php?mod=report&amp;rtype=post&amp;rid=11609893&amp;tid=769734&amp;fid=36', 'get', -1);return false;">
+               举报
+              </a>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="pct">
+          <div class="pcb">
+           <div class="locked c3">
+            此帖仅作者可见
+           </div>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="plc plm">
+        </td>
+       </tr>
+       <tr id="_postposition11609893">
+       </tr>
+       <tr>
+        <td class="pls">
+        </td>
+        <td class="plc" style="overflow:visible;">
+        </td>
+       </tr>
+       <tr class="ad">
+        <td class="pls">
+        </td>
+        <td class="plc">
+        </td>
+       </tr>
+      </table>
+     </div>
+     <div id="post_11609896" style="">
+      <table cellpadding="0" cellspacing="0" class="plhin" id="pid11609896" summary="pid11609896">
+       <tr>
+        <td class="pls" rowspan="2">
+         <div class="pls favatar" id="favatar11609896" style="padding-top:4px;">
+          <div class="p_pop blk bui card_gender_0" id="userinfo11609896" style="display: none; ">
+           <div class="m z">
+            <div id="userinfo11609896_ma">
+            </div>
+           </div>
+           <div class="i y">
+            <div>
+             <strong>
+              <a class="xi2" href="home.php?mod=space&amp;uid=916307" target="_blank">
+               胡勇老狗
+              </a>
+             </strong>
+             <em>
+              当前离线
+             </em>
+             <a class="xi2" href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_916307&amp;touid=916307&amp;pmid=0&amp;daterange=2&amp;pid=11609896&amp;tid=769734" onclick="showWindow('sendpm', this.href);" title="发消息">
+              <img src="/template/qu_115style/images/pmto.gif"/>
+             </a>
+            </div>
+            <dl class="cl">
+             <dt>
+              积分
+             </dt>
+             <dd>
+              <a class="xi2" href="home.php?mod=space&amp;uid=916307&amp;do=profile" target="_blank">
+               13
+              </a>
+             </dd>
+             <dt>
+              精华
+             </dt>
+             <dd>
+              0
+             </dd>
+             <dt>
+              金币
+             </dt>
+             <dd>
+              40
+             </dd>
+             <dt>
+              贡献
+             </dt>
+             <dd>
+              6
+             </dd>
+             <dt>
+              推广
+             </dt>
+             <dd>
+              0
+             </dd>
+             <dt>
+              性别
+             </dt>
+             <dd>
+              保密
+             </dd>
+             <br/>
+             <dt>
+              注册时间
+             </dt>
+             <dd>
+              2019-5-4
+             </dd>
+            </dl>
+            <div class="imicn">
+             <a href="home.php?mod=space&amp;uid=916307&amp;do=profile" target="_blank" title="查看详细资料">
+              <img alt="查看详细资料" src="template/qu_115style/images/userinfo.gif"/>
+             </a>
+            </div>
+            <div id="avatarfeed">
+             <span id="threadsortswait">
+             </span>
+            </div>
+           </div>
+          </div>
+          <div>
+           <div class="avatar" onmouseover="showauthor(this, 'userinfo11609896')">
+            <a class="avtm" href="home.php?mod=space&amp;uid=916307" target="_blank">
+             <img onerror="this.onerror=null;this.src='http://uc.taoy88.info/uc_server/images/noavatar_middle.gif'" src="http://uc.taoy88.info/uc_server/data/avatar/000/91/63/07_avatar_middle.jpg"/>
+            </a>
+           </div>
+          </div>
+         </div>
+        </td>
+        <td class="plc">
+         <div class="pi" style="position:relative;">
+          <strong>
+           <a href="forum.php?mod=redirect&amp;goto=findpost&amp;ptid=769734&amp;pid=11609896&amp;fromuid=636112" id="postnum11609896" onclick="setCopy(this.href, '帖子地址复制成功');return false;" title="您的朋友访问此链接后，您将获得相应的积分奖励">
+            <em>
+             12
+            </em>
+            <sup>
+             #
+            </sup>
+           </a>
+          </strong>
+          <div class="pti">
+           <div class="pdbt">
+           </div>
+           <div class="authi qing_authi">
+            <a class="xi2" href="home.php?mod=space&amp;uid=916307" target="_blank">
+             胡勇老狗
+            </a>
+            <p>
+             <em>
+              <a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=10" target="_blank">
+               1级
+              </a>
+             </em>
+            </p>
+            <em id="authorposton11609896" style="float: left;">
+             2019-5-4 21:38:14
+            </em>
+            <span class="xg1" style="float: left;margin-left: 5px;">
+             <img src="/img/mobile-attach-1.png"/>
+            </span>
+            <div class="hin" style="float: left;margin-left: 20px;width: 400px;">
+             <div class="pob cl">
+              <em>
+              </em>
+              <a href="javascript:;" onclick="showWindow('rate', 'forum.php?mod=misc&amp;action=rate&amp;tid=769734&amp;pid=11609896', 'get', -1);return false;">
+               评分
+              </a>
+              <a href="javascript:;" onclick="showWindow('miscreport11609896', 'misc.php?mod=report&amp;rtype=post&amp;rid=11609896&amp;tid=769734&amp;fid=36', 'get', -1);return false;">
+               举报
+              </a>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="pct">
+          <div class="pcb">
+           <div class="locked c3">
+            此帖仅作者可见
+           </div>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="plc plm">
+        </td>
+       </tr>
+       <tr id="_postposition11609896">
+       </tr>
+       <tr>
+        <td class="pls">
+        </td>
+        <td class="plc" style="overflow:visible;">
+        </td>
+       </tr>
+       <tr class="ad">
+        <td class="pls">
+        </td>
+        <td class="plc">
+        </td>
+       </tr>
+      </table>
+     </div>
+     <div id="post_11609954" style="">
+      <table cellpadding="0" cellspacing="0" class="plhin" id="pid11609954" summary="pid11609954">
+       <tr>
+        <td class="pls" rowspan="2">
+         <div class="pls favatar" id="favatar11609954" style="padding-top:4px;">
+          <div class="p_pop blk bui card_gender_0" id="userinfo11609954" style="display: none; ">
+           <div class="m z">
+            <div id="userinfo11609954_ma">
+            </div>
+           </div>
+           <div class="i y">
+            <div>
+             <strong>
+              <a class="xi2" href="home.php?mod=space&amp;uid=802812" target="_blank">
+               986532wang
+              </a>
+             </strong>
+             <em>
+              当前离线
+             </em>
+             <a class="xi2" href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_802812&amp;touid=802812&amp;pmid=0&amp;daterange=2&amp;pid=11609954&amp;tid=769734" onclick="showWindow('sendpm', this.href);" title="发消息">
+              <img src="/template/qu_115style/images/pmto.gif"/>
+             </a>
+            </div>
+            <dl class="cl">
+             <dt>
+              积分
+             </dt>
+             <dd>
+              <a class="xi2" href="home.php?mod=space&amp;uid=802812&amp;do=profile" target="_blank">
+               332
+              </a>
+             </dd>
+             <dt>
+              精华
+             </dt>
+             <dd>
+              0
+             </dd>
+             <dt>
+              金币
+             </dt>
+             <dd>
+              1530
+             </dd>
+             <dt>
+              贡献
+             </dt>
+             <dd>
+              95
+             </dd>
+             <dt>
+              推广
+             </dt>
+             <dd>
+              0
+             </dd>
+             <dt>
+              性别
+             </dt>
+             <dd>
+              保密
+             </dd>
+             <br/>
+             <dt>
+              注册时间
+             </dt>
+             <dd>
+              2018-10-6
+             </dd>
+            </dl>
+            <div class="imicn">
+             <a href="home.php?mod=space&amp;uid=802812&amp;do=profile" target="_blank" title="查看详细资料">
+              <img alt="查看详细资料" src="template/qu_115style/images/userinfo.gif"/>
+             </a>
+            </div>
+            <div id="avatarfeed">
+             <span id="threadsortswait">
+             </span>
+            </div>
+           </div>
+          </div>
+          <div>
+           <div class="avatar" onmouseover="showauthor(this, 'userinfo11609954')">
+            <a class="avtm" href="home.php?mod=space&amp;uid=802812" target="_blank">
+             <img onerror="this.onerror=null;this.src='http://uc.taoy88.info/uc_server/images/noavatar_middle.gif'" src="http://uc.taoy88.info/uc_server/data/avatar/000/80/28/12_avatar_middle.jpg"/>
+            </a>
+           </div>
+          </div>
+         </div>
+        </td>
+        <td class="plc">
+         <div class="pi" style="position:relative;">
+          <strong>
+           <a href="forum.php?mod=redirect&amp;goto=findpost&amp;ptid=769734&amp;pid=11609954&amp;fromuid=636112" id="postnum11609954" onclick="setCopy(this.href, '帖子地址复制成功');return false;" title="您的朋友访问此链接后，您将获得相应的积分奖励">
+            <em>
+             13
+            </em>
+            <sup>
+             #
+            </sup>
+           </a>
+          </strong>
+          <div class="pti">
+           <div class="pdbt">
+           </div>
+           <div class="authi qing_authi">
+            <a class="xi2" href="home.php?mod=space&amp;uid=802812" target="_blank">
+             986532wang
+            </a>
+            <p>
+             <em>
+              <a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=13" target="_blank">
+               4级
+              </a>
+             </em>
+            </p>
+            <em id="authorposton11609954" style="float: left;">
+             2019-5-4 21:44:46
+            </em>
+            <span class="xg1" style="float: left;margin-left: 5px;">
+             <img src="/img/mobile-attach-1.png"/>
+            </span>
+            <div class="hin" style="float: left;margin-left: 20px;width: 400px;">
+             <div class="pob cl">
+              <em>
+              </em>
+              <a href="javascript:;" onclick="showWindow('rate', 'forum.php?mod=misc&amp;action=rate&amp;tid=769734&amp;pid=11609954', 'get', -1);return false;">
+               评分
+              </a>
+              <a href="javascript:;" onclick="showWindow('miscreport11609954', 'misc.php?mod=report&amp;rtype=post&amp;rid=11609954&amp;tid=769734&amp;fid=36', 'get', -1);return false;">
+               举报
+              </a>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="pct">
+          <div class="pcb">
+           <div class="locked c3">
+            此帖仅作者可见
+           </div>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="plc plm">
+        </td>
+       </tr>
+       <tr id="_postposition11609954">
+       </tr>
+       <tr>
+        <td class="pls">
+        </td>
+        <td class="plc" style="overflow:visible;">
+        </td>
+       </tr>
+       <tr class="ad">
+        <td class="pls">
+        </td>
+        <td class="plc">
+        </td>
+       </tr>
+      </table>
+     </div>
+     <div id="post_11609965" style="">
+      <table cellpadding="0" cellspacing="0" class="plhin" id="pid11609965" summary="pid11609965">
+       <tr>
+        <td class="pls" rowspan="2">
+         <div class="pls favatar" id="favatar11609965" style="padding-top:4px;">
+          <div class="p_pop blk bui card_gender_0" id="userinfo11609965" style="display: none; ">
+           <div class="m z">
+            <div id="userinfo11609965_ma">
+            </div>
+           </div>
+           <div class="i y">
+            <div>
+             <strong>
+              <a class="xi2" href="home.php?mod=space&amp;uid=306509" target="_blank">
+               h0921
+              </a>
+             </strong>
+             <em>
+              当前离线
+             </em>
+             <a class="xi2" href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_306509&amp;touid=306509&amp;pmid=0&amp;daterange=2&amp;pid=11609965&amp;tid=769734" onclick="showWindow('sendpm', this.href);" title="发消息">
+              <img src="/template/qu_115style/images/pmto.gif"/>
+             </a>
+            </div>
+            <dl class="cl">
+             <dt>
+              积分
+             </dt>
+             <dd>
+              <a class="xi2" href="home.php?mod=space&amp;uid=306509&amp;do=profile" target="_blank">
+               745
+              </a>
+             </dd>
+             <dt>
+              精华
+             </dt>
+             <dd>
+              0
+             </dd>
+             <dt>
+              金币
+             </dt>
+             <dd>
+              4000
+             </dd>
+             <dt>
+              贡献
+             </dt>
+             <dd>
+              177
+             </dd>
+             <dt>
+              推广
+             </dt>
+             <dd>
+              0
+             </dd>
+             <dt>
+              性别
+             </dt>
+             <dd>
+              保密
+             </dd>
+             <br/>
+             <dt>
+              注册时间
+             </dt>
+             <dd>
+              2016-11-20
+             </dd>
+            </dl>
+            <div class="imicn">
+             <a href="home.php?mod=space&amp;uid=306509&amp;do=profile" target="_blank" title="查看详细资料">
+              <img alt="查看详细资料" src="template/qu_115style/images/userinfo.gif"/>
+             </a>
+            </div>
+            <div id="avatarfeed">
+             <span id="threadsortswait">
+             </span>
+            </div>
+           </div>
+          </div>
+          <div>
+           <div class="avatar" onmouseover="showauthor(this, 'userinfo11609965')">
+            <a class="avtm" href="home.php?mod=space&amp;uid=306509" target="_blank">
+             <img onerror="this.onerror=null;this.src='http://uc.taoy88.info/uc_server/images/noavatar_middle.gif'" src="http://uc.taoy88.info/uc_server/data/avatar/000/30/65/09_avatar_middle.jpg"/>
+            </a>
+           </div>
+          </div>
+         </div>
+        </td>
+        <td class="plc">
+         <div class="pi" style="position:relative;">
+          <strong>
+           <a href="forum.php?mod=redirect&amp;goto=findpost&amp;ptid=769734&amp;pid=11609965&amp;fromuid=636112" id="postnum11609965" onclick="setCopy(this.href, '帖子地址复制成功');return false;" title="您的朋友访问此链接后，您将获得相应的积分奖励">
+            <em>
+             14
+            </em>
+            <sup>
+             #
+            </sup>
+           </a>
+          </strong>
+          <div class="pti">
+           <div class="pdbt">
+           </div>
+           <div class="authi qing_authi">
+            <a class="xi2" href="home.php?mod=space&amp;uid=306509" target="_blank">
+             h0921
+            </a>
+            <p>
+             <em>
+              <a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=14" target="_blank">
+               5级
+              </a>
+             </em>
+            </p>
+            <em id="authorposton11609965" style="float: left;">
+             2019-5-4 21:45:29
+            </em>
+            <span class="xg1" style="float: left;margin-left: 5px;">
+             <img src="/img/mobile-attach-1.png"/>
+            </span>
+            <div class="hin" style="float: left;margin-left: 20px;width: 400px;">
+             <div class="pob cl">
+              <em>
+              </em>
+              <a href="javascript:;" onclick="showWindow('rate', 'forum.php?mod=misc&amp;action=rate&amp;tid=769734&amp;pid=11609965', 'get', -1);return false;">
+               评分
+              </a>
+              <a href="javascript:;" onclick="showWindow('miscreport11609965', 'misc.php?mod=report&amp;rtype=post&amp;rid=11609965&amp;tid=769734&amp;fid=36', 'get', -1);return false;">
+               举报
+              </a>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="pct">
+          <div class="pcb">
+           <div class="locked c3">
+            此帖仅作者可见
+           </div>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="plc plm">
+        </td>
+       </tr>
+       <tr id="_postposition11609965">
+       </tr>
+       <tr>
+        <td class="pls">
+        </td>
+        <td class="plc" style="overflow:visible;">
+        </td>
+       </tr>
+       <tr class="ad">
+        <td class="pls">
+        </td>
+        <td class="plc">
+        </td>
+       </tr>
+      </table>
+     </div>
+     <div id="post_11609970" style="">
+      <table cellpadding="0" cellspacing="0" class="plhin" id="pid11609970" summary="pid11609970">
+       <tr>
+        <td class="pls" rowspan="2">
+         <div class="pls favatar" id="favatar11609970" style="padding-top:4px;">
+          <div class="p_pop blk bui card_gender_2" id="userinfo11609970" style="display: none; ">
+           <div class="m z">
+            <div id="userinfo11609970_ma">
+            </div>
+           </div>
+           <div class="i y">
+            <div>
+             <strong>
+              <a class="xi2" href="home.php?mod=space&amp;uid=657229" target="_blank">
+               杨泽琪
+              </a>
+             </strong>
+             <em>
+              当前离线
+             </em>
+             <a class="xi2" href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_657229&amp;touid=657229&amp;pmid=0&amp;daterange=2&amp;pid=11609970&amp;tid=769734" onclick="showWindow('sendpm', this.href);" title="发消息">
+              <img src="/template/qu_115style/images/pmto.gif"/>
+             </a>
+            </div>
+            <dl class="cl">
+             <dt>
+              积分
+             </dt>
+             <dd>
+              <a class="xi2" href="home.php?mod=space&amp;uid=657229&amp;do=profile" target="_blank">
+               1607
+              </a>
+             </dd>
+             <dt>
+              精华
+             </dt>
+             <dd>
+              0
+             </dd>
+             <dt>
+              金币
+             </dt>
+             <dd>
+              7710
+             </dd>
+             <dt>
+              贡献
+             </dt>
+             <dd>
+              471
+             </dd>
+             <dt>
+              推广
+             </dt>
+             <dd>
+              0
+             </dd>
+             <dt>
+              性别
+             </dt>
+             <dd>
+              女
+             </dd>
+             <br/>
+             <dt>
+              注册时间
+             </dt>
+             <dd>
+              2018-4-7
+             </dd>
+            </dl>
+            <div class="imicn">
+             <a href="home.php?mod=space&amp;uid=657229&amp;do=profile" target="_blank" title="查看详细资料">
+              <img alt="查看详细资料" src="template/qu_115style/images/userinfo.gif"/>
+             </a>
+            </div>
+            <div id="avatarfeed">
+             <span id="threadsortswait">
+             </span>
+            </div>
+           </div>
+          </div>
+          <div>
+           <div class="avatar" onmouseover="showauthor(this, 'userinfo11609970')">
+            <a class="avtm" href="home.php?mod=space&amp;uid=657229" target="_blank">
+             <img onerror="this.onerror=null;this.src='http://uc.taoy88.info/uc_server/images/noavatar_middle.gif'" src="http://uc.taoy88.info/uc_server/data/avatar/000/65/72/29_avatar_middle.jpg"/>
+            </a>
+           </div>
+          </div>
+         </div>
+        </td>
+        <td class="plc">
+         <div class="pi" style="position:relative;">
+          <strong>
+           <a href="forum.php?mod=redirect&amp;goto=findpost&amp;ptid=769734&amp;pid=11609970&amp;fromuid=636112" id="postnum11609970" onclick="setCopy(this.href, '帖子地址复制成功');return false;" title="您的朋友访问此链接后，您将获得相应的积分奖励">
+            <em>
+             15
+            </em>
+            <sup>
+             #
+            </sup>
+           </a>
+          </strong>
+          <div class="pti">
+           <div class="pdbt">
+           </div>
+           <div class="authi qing_authi">
+            <a class="xi2" href="home.php?mod=space&amp;uid=657229" target="_blank">
+             杨泽琪
+            </a>
+            <p>
+             <em>
+              <a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=15" target="_blank">
+               6级
+              </a>
+             </em>
+            </p>
+            <em id="authorposton11609970" style="float: left;">
+             2019-5-4 21:46:04
+            </em>
+            <span class="xg1" style="float: left;margin-left: 5px;">
+             <img src="/img/mobile-attach-1.png"/>
+            </span>
+            <div class="hin" style="float: left;margin-left: 20px;width: 400px;">
+             <div class="pob cl">
+              <em>
+              </em>
+              <a href="javascript:;" onclick="showWindow('rate', 'forum.php?mod=misc&amp;action=rate&amp;tid=769734&amp;pid=11609970', 'get', -1);return false;">
+               评分
+              </a>
+              <a href="javascript:;" onclick="showWindow('miscreport11609970', 'misc.php?mod=report&amp;rtype=post&amp;rid=11609970&amp;tid=769734&amp;fid=36', 'get', -1);return false;">
+               举报
+              </a>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="pct">
+          <div class="pcb">
+           <div class="locked c3">
+            此帖仅作者可见
+           </div>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="plc plm">
+        </td>
+       </tr>
+       <tr id="_postposition11609970">
+       </tr>
+       <tr>
+        <td class="pls">
+        </td>
+        <td class="plc" style="overflow:visible;">
+        </td>
+       </tr>
+       <tr class="ad">
+        <td class="pls">
+        </td>
+        <td class="plc">
+        </td>
+       </tr>
+      </table>
+     </div>
+     <div class="pl" id="postlistreply">
+      <div class="viewthread_table" id="post_new" style="display: none">
+      </div>
+     </div>
+    </div>
+    <form autocomplete="off" id="modactions" method="post" name="modactions">
+     <input name="formhash" type="hidden" value="dd55db35"/>
+     <input name="optgroup" type="hidden"/>
+     <input name="operation" type="hidden"/>
+     <input name="listextra" type="hidden" value=""/>
+     <input name="page" type="hidden" value="1"/>
+    </form>
+    <div class="pgs mtm mbm cl" style="border-bottom:1px solid #f2f2f2; padding-bottom:10px ;">
+     <div class="pg">
+      <strong>
+       1
+      </strong>
+      <a href="forum.php?mod=viewthread&amp;tid=769734&amp;extra=&amp;page=2">
+       2
+      </a>
+      <a href="forum.php?mod=viewthread&amp;tid=769734&amp;extra=&amp;page=3">
+       3
+      </a>
+      <a href="forum.php?mod=viewthread&amp;tid=769734&amp;extra=&amp;page=4">
+       4
+      </a>
+      <a href="forum.php?mod=viewthread&amp;tid=769734&amp;extra=&amp;page=5">
+       5
+      </a>
+      <a href="forum.php?mod=viewthread&amp;tid=769734&amp;extra=&amp;page=6">
+       6
+      </a>
+      <a href="forum.php?mod=viewthread&amp;tid=769734&amp;extra=&amp;page=7">
+       7
+      </a>
+      <a href="forum.php?mod=viewthread&amp;tid=769734&amp;extra=&amp;page=8">
+       8
+      </a>
+      <a href="forum.php?mod=viewthread&amp;tid=769734&amp;extra=&amp;page=9">
+       9
+      </a>
+      <a href="forum.php?mod=viewthread&amp;tid=769734&amp;extra=&amp;page=10">
+       10
+      </a>
+      <a class="last" href="forum.php?mod=viewthread&amp;tid=769734&amp;extra=&amp;page=70">
+       ... 70
+      </a>
+      <label>
+       <input class="px" name="custompage" onkeydown="if(event.keyCode==13) {window.location='forum.php?mod=viewthread&amp;tid=769734&amp;extra=&amp;page='+this.value;; doane(event);}" size="2" title="输入页码，按回车快速跳转" type="text" value="1"/>
+       <span title="共 70 页">
+        / 70 页
+       </span>
+      </label>
+      <a class="nxt" href="forum.php?mod=viewthread&amp;tid=769734&amp;extra=&amp;page=2">
+       下一页
+      </a>
+     </div>
+     <span class="pgb y">
+      <a href="forum.php?mod=forumdisplay&amp;fid=36">
+       返回列表
+      </a>
+     </span>
+     <a href="javascript:;" id="newspecialtmp" onclick="showWindow('newthread', 'forum.php?mod=post&amp;action=newthread&amp;fid=36')" onmouseover="$('newspecial').id = 'newspecialtmp';this.id = 'newspecial';showMenu({'ctrlid':this.id})" title="发新帖">
+      <img alt="发新帖" src="template/qu_115style/images/pn_post.png"/>
+     </a>
+    </div>
+    <!--[diy=diyfastposttop]-->
+    <div class="area" id="diyfastposttop">
+     <div class="frame move-span cl frame-1" id="framew4UTDb">
+      <div class="column frame-1-c" id="framew4UTDb_left">
+       <div class="move-span temp" id="framew4UTDb_left_temp">
+       </div>
+      </div>
+     </div>
+    </div>
+    <!--[/diy]-->
+    <script type="text/javascript">
+     var postminchars = parseInt('8');
+var postmaxchars = parseInt('10000');
+var disablepostctrl = parseInt('0');
+    </script>
+    <div class="pl bm" id="f_pst">
+     <form action="forum.php?mod=post&amp;action=reply&amp;fid=36&amp;tid=769734&amp;extra=&amp;replysubmit=yes&amp;infloat=yes&amp;handlekey=fastpost" autocomplete="off" id="fastpostform" method="post" onsubmit="return fastpostvalidate(this)">
+      <table cellpadding="0" cellspacing="0">
+       <tr>
+        <td class="pls">
+         <div class="avatar avtm">
+          <img onerror="this.onerror=null;this.src='http://uc.taoy88.info/uc_server/images/noavatar_middle.gif'" src="http://uc.taoy88.info/uc_server/data/avatar/000/63/61/12_avatar_middle.jpg"/>
+         </div>
+        </td>
+        <td class="plc">
+         <script defer="true" type="text/javascript">
+          function move_oculus_before_submit() {
+            var oc_submitBtn = document.getElementById('fastpostsubmit');
+            var oculus = document.getElementById('oc_viewthread_fastpost_content');
+            var postForm = document.getElementById('fastpostform');
+            oc_submitBtn.parentNode.parentNode.insertBefore(oculus, oc_submitBtn.parentNode);
+        }
+        paxmac_ready(function(){
+        oc_viewthread_fastpost_content_nc.on('ready',function(){move_oculus_before_submit();});
+         });
+        function get_button(){
+            var b = [];
+            var buttons = document.getElementsByTagName("button")
+            for(var i=0; i<buttons.length; i++){
+                var button = buttons[i];
+                if(button.type == "submit"){
+                    b.push(button)
+                }
+            }   
+            return b;           
+        }
+         </script>
+         <span id="fastpostreturn">
+         </span>
+         <div class="cl">
+          <div id="fastposteditor">
+           <div class="tedt mtn">
+            <div class="bar">
+             <span class="y">
+              <a href="forum.php?mod=post&amp;action=reply&amp;fid=36&amp;tid=769734" onclick="return switchAdvanceMode(this.href)">
+               高级模式
+              </a>
+             </span>
+             <script src="data/cache/seditor.js?CGn" type="text/javascript">
+             </script>
+             <div class="fpd">
+              <a class="fbld" href="javascript:;" onclick="seditor_insertunit('fastpost', '[b]', '[/b]');doane(event);" title="文字加粗">
+               B
+              </a>
+              <a class="fclr" href="javascript:;" id="fastpostforecolor" onclick="showColorBox(this.id, 2, 'fastpost');doane(event);" title="设置文字颜色">
+               Color
+              </a>
+              <a class="fmg" href="javascript:;" id="fastpostimg" onclick="seditor_menu('fastpost', 'img');doane(event);" title="图片">
+               Image
+              </a>
+              <a class="flnk" href="javascript:;" id="fastposturl" onclick="seditor_menu('fastpost', 'url');doane(event);" title="添加链接">
+               Link
+              </a>
+              <a class="fqt" href="javascript:;" id="fastpostquote" onclick="seditor_menu('fastpost', 'quote');doane(event);" title="引用">
+               Quote
+              </a>
+              <a class="fcd" href="javascript:;" id="fastpostcode" onclick="seditor_menu('fastpost', 'code');doane(event);" title="代码">
+               Code
+              </a>
+              <a class="fsml" href="javascript:;" id="fastpostsml" onclick="showMenu({'ctrlid':this.id,'evt':'click','layer':2});return false;">
+               Smilies
+              </a>
+              <script reload="1" type="text/javascript">
+               smilies_show('fastpostsmiliesdiv', 8, 'fastpost');
+              </script>
+              <script src="data/cache/at.js?CGn" type="text/javascript">
+              </script>
+              <a class="fat" href="javascript:;" id="fastpostat" onclick="seditor_menu('fastpost', 'at');doane(event);" title="@朋友">
+               @朋友
+              </a>
+              <span class="pipe z">
+               |
+              </span>
+              <span id="spanButtonPlaceholder">
+               上传
+              </span>
+             </div>
+            </div>
+            <div class="area">
+             <textarea class="pt" cols="80" id="fastpostmessage" name="message" onkeydown="seditor_ctlent(event, 'fastpostvalidate($(\'fastpostform\'))');" rows="6" tabindex="4"></textarea>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div id="seccheck_fastpost">
+         </div>
+         <script type="text/javascript">
+          var editorid = '';
+var ATTACHNUM = {'imageused':0,'imageunused':0,'attachused':0,'attachunused':0}, ATTACHUNUSEDAID = new Array(), IMGUNUSEDAID = new Array();
+         </script>
+         <input id="posttime" name="posttime" type="hidden" value="1560145963"/>
+         <div class="upfl">
+          <table border="0" cellpadding="0" cellspacing="0" id="attach_tblheader" style="display: none;">
+           <tr>
+            <td>
+             点击附件文件名添加到帖子内容中
+            </td>
+            <td class="atds">
+             描述
+            </td>
+            <td class="attc">
+            </td>
+           </tr>
+          </table>
+          <div class="fieldset flash" id="attachlist">
+          </div>
+          <script src="data/cache/upload.js?CGn" type="text/javascript">
+          </script>
+          <script type="text/javascript">
+           var upload = new SWFUpload({
+upload_url: "http://c.taoy66.vip/misc.php?mod=swfupload&action=swfupload&operation=upload&fid=36",
+post_params: {"uid" : "636112", "hash":"748cf83ce3f75ec49e118acdd9a40a5c"},
+file_size_limit : "1500",
+file_types : "*.zip;*.rar;*.gif;*.jpg;*.jpeg;*.png;*.torrent",
+file_types_description : "All Support Formats",
+file_upload_limit : 0,
+file_queue_limit : 0,
+swfupload_preload_handler : preLoad,
+swfupload_load_failed_handler : loadFailed,
+file_dialog_start_handler : fileDialogStart,
+file_queued_handler : fileQueued,
+file_queue_error_handler : fileQueueError,
+file_dialog_complete_handler : fileDialogComplete,
+upload_start_handler : uploadStart,
+upload_progress_handler : uploadProgress,
+upload_error_handler : uploadError,
+upload_success_handler : uploadSuccess,
+upload_complete_handler : uploadComplete,
+button_image_url : "template/qu_115style/images/uploadbutton_small.png",
+button_placeholder_id : "spanButtonPlaceholder",
+button_width: 17,
+button_height: 25,
+button_cursor:SWFUpload.CURSOR.HAND,
+button_window_mode: "transparent",
+custom_settings : {
+progressTarget : "attachlist",
+uploadSource: 'forum',
+uploadType: 'attach',
+uploadFrom: 'fastpost'
+},
+debug: false
+});
+          </script>
+         </div>
+         <input name="formhash" type="hidden" value="dd55db35"/>
+         <input name="usesig" type="hidden" value=""/>
+         <input name="subject" type="hidden" value="  "/>
+         <p class="ptm pnpost q_fastpost">
+          <a class="y" href="home.php?mod=spacecp&amp;ac=credit&amp;op=rule&amp;fid=36" target="_blank">
+           本版积分规则
+          </a>
+          <button class="" id="fastpostsubmit" name="replysubmit" onmouseover="checkpostrule('seccheck_fastpost', 'ac=reply');this.onmouseover=null" tabindex="5" type="submit" value="replysubmit">
+           <strong>
+            发表
+           </strong>
+          </button>
+          <label for="fastpostrefresh">
+           <input class="pc" id="fastpostrefresh" type="checkbox"/>
+           回帖后跳转到最后一页
+          </label>
+         </p>
+        </td>
+       </tr>
+      </table>
+     </form>
+    </div>
+    <script type="text/javascript">
+     new lazyload();
+    </script>
+    <script type="text/javascript">
+     document.onkeyup = function(e){keyPageScroll(e, 0, 1, 'forum.php?mod=viewthread&tid=769734', 1);}
+    </script>
+   </div>
+   <div class="wp mtn">
+    <!--[diy=diy3]-->
+    <div class="area" id="diy3">
+    </div>
+    <!--[/diy]-->
+   </div>
+   <script type="text/javascript">
+    function succeedhandle_followmod(url, msg, values) {
+var fObj = $('followmod_'+values['fuid']);
+if(values['type'] == 'add') {
+fObj.innerHTML = '不收听';
+fObj.href = 'home.php?mod=spacecp&ac=follow&op=del&fuid='+values['fuid'];
+} else if(values['type'] == 'del') {
+fObj.innerHTML = '收听TA';
+fObj.href = 'home.php?mod=spacecp&ac=follow&op=add&hash=dd55db35&fuid='+values['fuid'];
+}
+}
+fixed_avatar([11609761,11609772,11609827,11609835,11609850,11609871,11609877,11609883,11609884,11609885,11609893,11609896,11609954,11609965,11609970], 1);
+   </script>
+  </div>
+  <div class="topic-side-nav">
+   <ul id="js-left-navs">
+    <li>
+     <a class="item" href="javascript:;" id="qlistbtn" onmouseover="showMenu({'ctrlid':'qlistbtn','ctrlclass':'a'})">
+      <em style="">
+      </em>
+      <i class="icon-snav isn-more">
+      </i>
+     </a>
+    </li>
+    <li>
+     <a class="item" href="forum.php?mod=guide&amp;view=newthread" id="js-left-topics">
+      <i class="icon-snav isn-topic">
+      </i>
+     </a>
+    </li>
+    <li>
+     <a class="item" href="javascript:;" id="js-left-topics" onclick="location.href='/img/taoyin.htm';">
+      <div style="margin-top: 2px;font-size: 15px;margin-left: 8px;color: #666;">
+       地址下载
+      </div>
+     </a>
+    </li>
+    <li>
+     <a class="item item-figure" href="home.php?mod=space&amp;do=pm" id="js-left-qchat" title="消息">
+      <i class="icon-snav isn-chat">
+      </i>
+     </a>
+    </li>
+    <div class="sn-pupup" id="qlistbtn_menu" style="display:none;">
+     <b class="arrow">
+     </b>
+     <i class="arrow">
+     </i>
+     <div class="ql-list" style="">
+      <ul id="js-left-qlist">
+       <li>
+        <a href="forum.php?mod=forumdisplay&amp;fid=46" target="_blank" title="在线短片|偷拍|自拍">
+         <em class="notice" style="">
+          290
+         </em>
+         <img src="/data/attachment/common/d9/common_46_icon.png"/>
+         <p>
+          <span class="name">
+           在线短片|偷拍|自拍
+          </span>
+         </p>
+        </a>
+       </li>
+       <li>
+        <a href="forum.php?mod=forumdisplay&amp;fid=71" target="_blank" title="AV区">
+         <em class="notice" style="">
+          6
+         </em>
+         <img src="static/image/common/forum_new.gif"/>
+         <p>
+          <span class="name">
+           AV区
+          </span>
+         </p>
+        </a>
+       </li>
+       <li>
+        <a href="forum.php?mod=forumdisplay&amp;fid=73" target="_blank" title="日本AV">
+         <em class="notice" style="">
+          3
+         </em>
+         <img src="static/image/common/forum_new.gif"/>
+         <p>
+          <span class="name">
+           日本AV
+          </span>
+         </p>
+        </a>
+       </li>
+       <li>
+        <a href="forum.php?mod=forumdisplay&amp;fid=81" target="_blank" title="名女优馆">
+         <em class="notice" style="">
+          25
+         </em>
+         <img src="static/image/common/forum_new.gif"/>
+         <p>
+          <span class="name">
+           名女优馆
+          </span>
+         </p>
+        </a>
+       </li>
+       <li>
+        <a href="forum.php?mod=forumdisplay&amp;fid=62" target="_blank" title="动漫专区">
+         <em class="notice" style="">
+          5
+         </em>
+         <img src="static/image/common/forum_new.gif"/>
+         <p>
+          <span class="name">
+           动漫专区
+          </span>
+         </p>
+        </a>
+       </li>
+       <li>
+        <a href="forum.php?mod=forumdisplay&amp;fid=74" target="_blank" title="短片通道3">
+         <em class="notice" style="">
+          3
+         </em>
+         <img src="static/image/common/forum_new.gif"/>
+         <p>
+          <span class="name">
+           短片通道3
+          </span>
+         </p>
+        </a>
+       </li>
+       <li>
+        <a href="forum.php?mod=forumdisplay&amp;fid=78" target="_blank" title="外部专区">
+         <em class="notice" style="">
+          26
+         </em>
+         <img src="http://vvww.ty77.vip/data/attachment/common/35/common_78_icon.png"/>
+         <p>
+          <span class="name">
+           外部专区
+          </span>
+         </p>
+        </a>
+       </li>
+       <li>
+        <a href="forum.php?mod=forumdisplay&amp;fid=36" target="_blank" title="国产自拍|偷拍|艳照">
+         <em class="notice" style="">
+          201
+         </em>
+         <img src="http://vvww.ty77.vip/data/attachment/common/19/common_36_icon.png"/>
+         <p>
+          <span class="name">
+           国产自拍|偷拍|艳照
+          </span>
+         </p>
+        </a>
+       </li>
+       <li>
+        <a href="forum.php?mod=forumdisplay&amp;fid=2" target="_blank" title="高清写真|欧美|亚洲">
+         <em class="notice" style="">
+          67
+         </em>
+         <img src="/data/attachment/common/c8/common_2_icon.png"/>
+         <p>
+          <span class="name">
+           高清写真|欧美|亚洲
+          </span>
+         </p>
+        </a>
+       </li>
+       <li>
+        <a href="forum.php?mod=forumdisplay&amp;fid=70" target="_blank" title="街拍｜齐B抄底">
+         <em class="notice" style="">
+          4
+         </em>
+         <img src="static/image/common/forum_new.gif"/>
+         <p>
+          <span class="name">
+           街拍｜齐B抄底
+          </span>
+         </p>
+        </a>
+       </li>
+       <li>
+        <a href="forum.php?mod=forumdisplay&amp;fid=47" target="_blank" title="H漫画|同人|汉化字幕">
+         <em class="notice" style="">
+          107
+         </em>
+         <img src="/data/attachment/common/67/common_47_icon.png"/>
+         <p>
+          <span class="name">
+           H漫画|同人|汉化字幕
+          </span>
+         </p>
+        </a>
+       </li>
+       <li>
+        <a href="forum.php?mod=forumdisplay&amp;fid=63" target="_blank" title="动态诱惑">
+         <em class="notice" style="">
+          8
+         </em>
+         <img src="static/image/common/forum_new.gif"/>
+         <p>
+          <span class="name">
+           动态诱惑
+          </span>
+         </p>
+        </a>
+       </li>
+       <li>
+        <a href="forum.php?mod=forumdisplay&amp;fid=50" target="_blank" title="休闲聊天|技术交流">
+         <em class="notice" style="">
+          32
+         </em>
+         <img src="http://vvww.ty77.vip/data/attachment/common/c0/common_50_icon.png"/>
+         <p>
+          <span class="name">
+           休闲聊天|技术交流
+          </span>
+         </p>
+        </a>
+       </li>
+       <li>
+        <a href="forum.php?mod=forumdisplay&amp;fid=61" target="_blank" title="新手报道">
+         <em class="notice" style="">
+          8
+         </em>
+         <img src="static/image/common/forum_new.gif"/>
+         <p>
+          <span class="name">
+           新手报道
+          </span>
+         </p>
+        </a>
+       </li>
+       <li>
+        <a href="forum.php?mod=forumdisplay&amp;fid=54" target="_blank" title="同城交友">
+         <em class="notice" style="">
+          23
+         </em>
+         <img src="static/image/common/forum_new.gif"/>
+         <p>
+          <span class="name">
+           同城交友
+          </span>
+         </p>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </ul>
+  </div>
+  <div class="wp cl" id="ft">
+   <div class="y" id="flk">
+    <p>
+     <a href="/thread-247113-1-1.html" target="_blank" title="只是广告">
+      广告询问
+     </a>
+     <span class="pipe">
+      |
+     </span>
+     <a href="forum.php?mobile=yes">
+      手机版
+     </a>
+     <span class="pipe">
+      |
+     </span>
+     <a href="qrcode.php" target="_blank">
+      二维码
+     </a>
+     <span class="pipe">
+      |
+     </span>
+     <a href="forum.php?mod=misc&amp;action=showdarkroom">
+      小黑屋
+     </a>
+     <span class="pipe">
+      |
+     </span>
+     <strong>
+      <a href="" target="_blank">
+       桃隐社区.
+      </a>
+     </strong>
+     <script language="JavaScript" src="https://s11.cnzz.com/z_stat.php?id=1255696574&amp;web_id=1255696574">
+     </script>
+    </p>
+   </div>
+   <div id="frt">
+    <p>
+    </p>
+   </div>
+  </div>
+  <script src="home.php?mod=spacecp&amp;ac=pm&amp;op=checknewpm&amp;rand=1560145963" type="text/javascript">
+  </script>
+  <script src="home.php?mod=misc&amp;ac=sendmail&amp;rand=1560145963" type="text/javascript">
+  </script>
+  <div id="scrolltop">
+   <span hidefocus="true">
+    <a class="scrolltopa" onclick="window.scrollTo('0','0')" title="返回顶部">
+     <b>
+      返回顶部
+     </b>
+    </a>
+   </span>
+  </div>
+  <script type="text/javascript">
+   _attachEvent(window, 'scroll', function () { showTopLink(); });checkBlind();
+  </script>
+ </body>
+</html>
