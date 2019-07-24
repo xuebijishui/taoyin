@@ -11,7 +11,7 @@ class Crawler:
         self.domain_name = 'c.taoy66.vip'
         self.urls_file = 'taoyin_urls.txt'
         self.url_serial_number = 0    #帖子序号
-        self.retry = 3    #请求次数
+        self.retry = 10    #请求次数
         self.timeout = 10    #超时时间
         self.html_source_code = ''
         self.html_title = ''
