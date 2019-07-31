@@ -261,6 +261,7 @@ class Crawler:
                              <head>
                               <title>
                               </title>
+                              <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
                              </head>
                              <body bgcolor="#00FFFF">
                               <div style="margin:40px ; text-align:center;">

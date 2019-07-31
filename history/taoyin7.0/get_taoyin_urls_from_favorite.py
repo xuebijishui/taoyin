@@ -2,7 +2,7 @@
 
 import re
 
-f = open('bookmarks_2019_7_30.html', 'r', encoding='utf-8')
+f = open('bookmarks_2019_7_23.html', 'r', encoding='utf-8')
 content = f.read()
 f.close()
 
